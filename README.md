@@ -4,3 +4,14 @@ This repo is a collection of HTML files containing color schemes for text editor
 Color schemes which have been created during my project of color theming Vtubers will be in the folder called "vtuber_project". Color schemes which were created outside this project will be in the folder "other".
 
 You can find [further information](https://github.com/fm3chanic/vtuber_project) regarding the Vtuber project and the currently supported ports [here](https://github.com/fm3chanic/vtuber_project).
+
+## Supported Applications
+
+|Type|Repo|Status|
+|:---|:---|:---:|
+|Reference Material|[Color Scheme Files](https://github.com/fm3chanic/color_schemes)|n/a|
+|App|[Notepad ++](https://github.com/fm3chanic/npp_themes)|supported|
+|App|[Windows Terminal Emulator](https://github.com/fm3chanic/windows_terminal_themes)|supported|
+|App|[KSyntaxhighlighting](https://github.com/fm3chanic/ksyntaxhighlighting)|newly supported|
+|App|[Konsole](https://github.com/fm3chanic/kde_konsole_themes)|newly supported|
+|App|[XFCE4-Terminal](https://github.com/fm3chanic/xfce4-terminal_themes)|newly supported|
