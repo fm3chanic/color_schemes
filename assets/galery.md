@@ -12,7 +12,7 @@ A venomous look with glowing colors.<br>
 **Adeptus Mechanicus (Warhammer 40k)**<br>
 A reference to the main tech faction of the Warhammer 40k universe. The colors should resemble their combination of machines and sacrality.<br><br>
 *Dark*<br>
-![Adeptus Mechanicus - Dark -](/assets/adeptus-mechanicus-dark.png)<br>
+![Adeptus Mechanicus - Dark -](/assets/adeptus-mechanicus-dark.png)<br><br>
 *Light*<br>
 ![Adeptus Mechanicus - Light -](/assets/adeptus-mechanicus-light.png)<br><br>
 **Aztec Jungle**<br>
@@ -30,7 +30,7 @@ A dark and glowy theme. I wanted to make it look like the glowing creatures in d
 **Mother Nature**<br>
 A classical dark theme with only natural colors. All colors have been extracted from natural pictures like trees, lakes, stones etc.<br><br>
 *Dark*<br>
-![Mother Nature - Dark -](/assets/mother-nature-dark.png)<br>
+![Mother Nature - Dark -](/assets/mother-nature-dark.png)<br><br>
 *Light*<br>
 ![Mother Nature - Light -](/assets/mother-nature-light.png)<br><br>
 **Nautical**<br>
@@ -44,7 +44,7 @@ Both backgrounds should resemble the sky. One at night the other one during the 
 **Sakura Haruno (Naruto)**<br>
 My first theme I made. There was a rework since then, yet the base colors and concept are still the same.<br>
 *Dark*<br>
-![Sakura Haruno - Dark -](/assets/sakura-haruno-dark.png)<br>
+![Sakura Haruno - Dark -](/assets/sakura-haruno-dark.png)<br><br>
 *Light*<br>
 ![Sakura Haruno - Light -](/assets/sakura-haruno-light.png)<br><br>
 **Steampunk**<br>
