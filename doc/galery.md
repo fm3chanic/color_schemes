@@ -1,4 +1,4 @@
-## fm3chanic color theme galery
+## fm3chanic Color Theme Galery
 
 This galery contains all my color themes which are not related to my vtuber project. All of these color themes were built during my freetime and served as an outlet for my creativity.<br>
 Please check the galery of the [project repository](https://github.com/fm3chanic/vtuber_project) for their pictures.
