@@ -5,7 +5,7 @@ Color schemes which have been created during my project of color theming Vtubers
 
 You can find [further information](https://github.com/fm3chanic/vtuber_project) regarding the Vtuber project, pictures and the currently supported ports [here](https://github.com/fm3chanic/vtuber_project).
 
-For my other themes I have pictures in the [Galery](/assets/galery.md) of this repo.
+For my other themes I have pictures in the [Galery](/doc/galery.md) of this repo.
 
 ## Supported Applications
 
