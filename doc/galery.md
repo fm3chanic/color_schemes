@@ -52,7 +52,9 @@ My first theme I made. There was a rework since then, yet the base colors and co
 *Light*<br>
 ![Sakura Haruno - Light -](/assets/pictures/sakura-haruno-light.png)<br><br>
 **Steampunk**<br>
-![Steampunk](/assets/pictures/steampunk.png)
+![Steampunk](/assets/pictures/steampunk.png)<br><br>
+**Cyberpunk**<br>
+![Cyberpunk](/assets/pictures/cyberpunk.png)
 
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
