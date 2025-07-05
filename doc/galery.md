@@ -19,9 +19,13 @@ A reference to the main tech faction of the Warhammer 40k universe. The colors s
 ![Adeptus Mechanicus - Dark -](/assets/pictures/adeptus-mechanicus-dark.png)<br><br>
 *Light*<br>
 ![Adeptus Mechanicus - Light -](/assets/pictures/adeptus-mechanicus-light.png)<br><br>
+**Atompunk**<br>
+![Atompunk](/assets/pictures/atompunk.png)<br><br>
 **Aztec Jungle**<br>
 The feeling of wondering through old ruins in the jungle of mexico.<br>
 ![Aztec Jungle](/assets/pictures/aztec-jungle.png)<br><br>
+**Cyberpunk**<br>
+![Cyberpunk](/assets/pictures/cyberpunk.png)<br><br>
 **Cyrodiil**<br>
 Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br>
 ![Cyrodiil](/assets/pictures/cyrodiil.png)<br><br>
@@ -52,9 +56,7 @@ My first theme I made. There was a rework since then, yet the base colors and co
 *Light*<br>
 ![Sakura Haruno - Light -](/assets/pictures/sakura-haruno-light.png)<br><br>
 **Steampunk**<br>
-![Steampunk](/assets/pictures/steampunk.png)<br><br>
-**Cyberpunk**<br>
-![Cyberpunk](/assets/pictures/cyberpunk.png)
+![Steampunk](/assets/pictures/steampunk.png)
 
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
