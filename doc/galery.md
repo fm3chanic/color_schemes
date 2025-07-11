@@ -20,10 +20,16 @@ A reference to the main tech faction of the Warhammer 40k universe. The colors s
 *Light*<br>
 ![Adeptus Mechanicus - Light -](/assets/pictures/adeptus-mechanicus-light.png)<br><br>
 **Atompunk**<br>
+The result of trying to bring the Atompunk color scheme to a text editor.<br>
 ![Atompunk](/assets/pictures/atompunk.png)<br><br>
+**Aurora Borealis**<br>
+Inspired by the beauty of the polar lights.<br>
+![Aurora Borealis](/assets/pictures/aurora-borealis.png)<br><br>
 **Aztec Jungle**<br>
 The feeling of wondering through old ruins in the jungle of mexico.<br>
 ![Aztec Jungle](/assets/pictures/aztec-jungle.png)<br><br>
+**Canyon**<br>
+![Canyon](/assets/pictures/canyon.png)<br><br>
 **Cyberpunk**<br>
 ![Cyberpunk](/assets/pictures/cyberpunk.png)<br><br>
 **Cyrodiil**<br>
@@ -35,6 +41,15 @@ My goal was the resemble feeling of space in sci-fi.<br>
 **Deep Sea**<br>
 A dark and glowy theme. I wanted to make it look like the glowing creatures in dark depths.<br>
 ![Deep Sea](/assets/pictures/deep-sea.png)<br><br>
+**Dieselpunk**<br>
+The goal was to capture the grim atmossphere of Dieselpunk in a color scheme.<br>
+![Dieselpunk](/assets/pictures/dieselpunk.png)<br><br>
+**Forest**<br>
+Two themes based around natural green colors.<br>
+*Dark - (Spruce)*<br>
+![Forest Spruce](/assets/pictures/forest-spruce.png)<br><br>
+*Light - (Bamboo)*<br>
+![Forest Bamboo](/assets/pictures/forest-bamboo.png)<br><br>
 **Mother Nature**<br>
 A classical dark theme with only natural colors. All colors have been extracted from natural pictures like trees, lakes, stones etc.<br><br>
 *Dark*<br>
@@ -49,6 +64,9 @@ Both backgrounds should resemble the sky. One at night the other one during the 
 ![Pastel Sky - Dark -](/assets/pictures/pastel-sky-dark.png)<br><br>
 *Light*<br>
 ![Pastel Sky - Light -](/assets/pictures/pastel-sky-light.png)<br><br>
+**Psycho**<br>
+An theme around violett and pink, inspired by the pokemon type.<br>
+![Psycho](/assets/pictures/psycho.png)<br><br>
 **Sakura Haruno (Naruto)**<br>
 My first theme I made. There was a rework since then, yet the base colors and concept are still the same.<br>
 *Dark*<br>
@@ -56,7 +74,9 @@ My first theme I made. There was a rework since then, yet the base colors and co
 *Light*<br>
 ![Sakura Haruno - Light -](/assets/pictures/sakura-haruno-light.png)<br><br>
 **Steampunk**<br>
-![Steampunk](/assets/pictures/steampunk.png)
+![Steampunk](/assets/pictures/steampunk.png)<br><br>
+**Vulcano**<br>
+![Vulcano](/assets/pictures/vulcano.png)
 
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
