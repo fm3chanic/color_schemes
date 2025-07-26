@@ -11,7 +11,7 @@ Please check the galery of the [project repository](https://github.com/fm3chanic
 This theme was inspired by this literary masterpiece by Jules Verne. My goal was creating the feel of being underwater yet with a touch of Steampunk style in it.<br><br>
 ![Twenty Thousand Leagues Under the Seas](/assets/pictures/20k-leagues-under-seas.png)<br><br>
 **Acid Cloud**<br>
-A venomous look with glowing colors.<br>
+A venomous look with glowing colors.<br><br>
 ![Acid Cloud](/assets/pictures/acid-cloud.png)<br><br>
 **Adeptus Mechanicus (Warhammer 40k)**<br>
 A reference to the main tech faction of the Warhammer 40k universe. The colors should resemble their combination of machines and sacrality.<br><br>
