@@ -17,5 +17,6 @@ first.
 |[XFCE4-Terminal](https://github.com/fm3chanic/xfce4-terminal_themes)|supported|
 |[Alacritty](https://github.com/fm3chanic/alacritty_themes)|supported|
 |[Gnome Text Editor](https://github.com/fm3chanic/gnome_text_editor_themes)|supported|
+|[Mousepad](https://github.com/fm3chanic/mousepad_themes)|supported|
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
