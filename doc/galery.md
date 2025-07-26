@@ -19,6 +19,12 @@ A reference to the main tech faction of the Warhammer 40k universe. The colors s
 ![Adeptus Mechanicus - Dark -](/assets/pictures/adeptus-mechanicus-dark.png)<br><br>
 *Light*<br>
 ![Adeptus Mechanicus - Light -](/assets/pictures/adeptus-mechanicus-light.png)<br><br>
+**Adeptus Ministorum (Warhammer 40k)**<br>
+A reference to the church of the imperium of men in the Warhammer 40k universe.<br><br>
+*Dark*<br>
+![Adeptus Ministorum - Dark -](/assets/pictures/adeptus-ministorum-dark.png)<br><br>
+*Light*<br>
+![Adeptus Ministorum - Light -](/assets/pictures/adeptus-ministorum-light.png)<br><br>
 **Atompunk**<br>
 The result of trying to bring the Atompunk color scheme to a text editor.<br>
 ![Atompunk](/assets/pictures/atompunk.png)<br><br>
@@ -26,10 +32,15 @@ The result of trying to bring the Atompunk color scheme to a text editor.<br>
 Inspired by the beauty of the polar lights.<br>
 ![Aurora Borealis](/assets/pictures/aurora-borealis.png)<br><br>
 **Aztec Jungle**<br>
-The feeling of wondering through old ruins in the jungle of mexico.<br>
+The feeling of wandering through old ruins in the jungle of mexico.<br>
 ![Aztec Jungle](/assets/pictures/aztec-jungle.png)<br><br>
+**Berry**<br>
+![Berry](/assets/pictures/berry.png)<br><br>
 **Canyon**<br>
 ![Canyon](/assets/pictures/canyon.png)<br><br>
+**Classic**<br>
+A theme based on a common set of colors for a simple look.<br>
+![Classic](/assets/pictures/classic.png)<br><br>
 **Cyberpunk**<br>
 ![Cyberpunk](/assets/pictures/cyberpunk.png)<br><br>
 **Cyrodiil**<br>
@@ -75,6 +86,9 @@ My first theme I made. There was a rework since then, yet the base colors and co
 ![Sakura Haruno - Light -](/assets/pictures/sakura-haruno-light.png)<br><br>
 **Steampunk**<br>
 ![Steampunk](/assets/pictures/steampunk.png)<br><br>
+**Vintage**<br>
+A classic set of colors in a faded out look on a brown background.<br>
+![Vintage](/assets/pictures/vintage.png)<br><br>
 **Vulcano**<br>
 ![Vulcano](/assets/pictures/vulcano.png)
 
