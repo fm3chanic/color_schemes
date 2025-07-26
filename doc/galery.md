@@ -8,7 +8,7 @@ Please check the galery of the [project repository](https://github.com/fm3chanic
 
 
 **Twenty Thousand Leagues Under the Seas**<br>
-This theme was inspired by this literary masterpiece by Jules Verne. My goal was creating the feel of being underwater yet with a touch of Steampunk style in it.<br>
+This theme was inspired by this literary masterpiece by Jules Verne. My goal was creating the feel of being underwater yet with a touch of Steampunk style in it.<br><br>
 ![Twenty Thousand Leagues Under the Seas](/assets/pictures/20k-leagues-under-seas.png)<br><br>
 **Acid Cloud**<br>
 A venomous look with glowing colors.<br>
@@ -26,37 +26,37 @@ A reference to the church of the imperium of men in the Warhammer 40k universe.<
 *Light*<br>
 ![Adeptus Ministorum - Light -](/assets/pictures/adeptus-ministorum-light.png)<br><br>
 **Atompunk**<br>
-The result of trying to bring the Atompunk color scheme to a text editor.<br>
+The result of trying to bring the Atompunk color scheme to a text editor.<br><br>
 ![Atompunk](/assets/pictures/atompunk.png)<br><br>
 **Aurora Borealis**<br>
-Inspired by the beauty of the polar lights.<br>
+Inspired by the beauty of the polar lights.<br><br>
 ![Aurora Borealis](/assets/pictures/aurora-borealis.png)<br><br>
 **Aztec Jungle**<br>
-The feeling of wandering through old ruins in the jungle of mexico.<br>
+The feeling of wandering through old ruins in the jungle of mexico.<br><br>
 ![Aztec Jungle](/assets/pictures/aztec-jungle.png)<br><br>
 **Berry**<br>
 ![Berry](/assets/pictures/berry.png)<br><br>
 **Canyon**<br>
 ![Canyon](/assets/pictures/canyon.png)<br><br>
 **Classic**<br>
-A theme based on a common set of colors for a simple look.<br>
+A theme based on a common set of colors for a simple look.<br><br>
 ![Classic](/assets/pictures/classic.png)<br><br>
 **Cyberpunk**<br>
 ![Cyberpunk](/assets/pictures/cyberpunk.png)<br><br>
 **Cyrodiil**<br>
-Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br>
+Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br><br>
 ![Cyrodiil](/assets/pictures/cyrodiil.png)<br><br>
 **Dark Space**<br>
-My goal was the resemble feeling of space in sci-fi.<br>
+My goal was the resemble feeling of space in sci-fi.<br><br>
 ![Dark Space](/assets/pictures/dark-space.png)<br><br>
 **Deep Sea**<br>
-A dark and glowy theme. I wanted to make it look like the glowing creatures in dark depths.<br>
+A dark and glowy theme. I wanted to make it look like the glowing creatures in dark depths.<br><br>
 ![Deep Sea](/assets/pictures/deep-sea.png)<br><br>
 **Dieselpunk**<br>
-The goal was to capture the grim atmossphere of Dieselpunk in a color scheme.<br>
+The goal was to capture the grim atmossphere of Dieselpunk in a color scheme.<br><br>
 ![Dieselpunk](/assets/pictures/dieselpunk.png)<br><br>
 **Forest**<br>
-Two themes based around natural green colors.<br>
+Two themes based around natural green colors.<br><br>
 *Dark - (Spruce)*<br>
 ![Forest Spruce](/assets/pictures/forest-spruce.png)<br><br>
 *Light - (Bamboo)*<br>
@@ -76,10 +76,10 @@ Both backgrounds should resemble the sky. One at night the other one during the 
 *Light*<br>
 ![Pastel Sky - Light -](/assets/pictures/pastel-sky-light.png)<br><br>
 **Psycho**<br>
-An theme around violett and pink, inspired by the pokemon type.<br>
+An theme around violett and pink, inspired by the pokemon type.<br><br>
 ![Psycho](/assets/pictures/psycho.png)<br><br>
 **Sakura Haruno (Naruto)**<br>
-My first theme I made. There was a rework since then, yet the base colors and concept are still the same.<br>
+My first theme I made. There was a rework since then, yet the base colors and concept are still the same.<br><br>
 *Dark*<br>
 ![Sakura Haruno - Dark -](/assets/pictures/sakura-haruno-dark.png)<br><br>
 *Light*<br>
@@ -87,7 +87,7 @@ My first theme I made. There was a rework since then, yet the base colors and co
 **Steampunk**<br>
 ![Steampunk](/assets/pictures/steampunk.png)<br><br>
 **Vintage**<br>
-A classic set of colors in a faded out look on a brown background.<br>
+A classic set of colors in a faded out look on a brown background.<br><br>
 ![Vintage](/assets/pictures/vintage.png)<br><br>
 **Vulcano**<br>
 ![Vulcano](/assets/pictures/vulcano.png)
