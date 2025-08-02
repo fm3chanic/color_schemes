@@ -61,6 +61,9 @@ Two themes based around natural green colors.<br><br>
 ![Forest Spruce](/assets/pictures/forest-spruce.png)<br><br>
 *Light - (Bamboo)*<br>
 ![Forest Bamboo](/assets/pictures/forest-bamboo.png)<br><br>
+**Industrial**<br>
+Based on industrial standard colors. Technically not a material colors scheme, but call it such if you want.<br><br>
+![Industrial](/assets/pictures/industrial.png)<br><br>
 **Mother Nature**<br>
 A classical dark theme with only natural colors. All colors have been extracted from natural pictures like trees, lakes, stones etc.<br><br>
 *Dark*<br>
