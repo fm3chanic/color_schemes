@@ -81,6 +81,9 @@ Both backgrounds should resemble the sky. One at night the other one during the 
 **Psycho**<br>
 An theme around violett and pink, inspired by the pokemon type.<br><br>
 ![Psycho](/assets/pictures/psycho.png)<br><br>
+**Retro**<br>
+A Dark theme inspired by the old terminal color schemes.<br><br>
+![Retro](/assets/pictures/retro.png)<br><br>
 **Sakura Haruno (Naruto)**<br>
 My first theme I made. There was a rework since then, yet the base colors and concept are still the same.<br><br>
 *Dark*<br>
