@@ -61,6 +61,15 @@ Two themes based around natural green colors.<br><br>
 ![Forest Spruce](/assets/pictures/forest-spruce.png)<br><br>
 *Light - (Bamboo)*<br>
 ![Forest Bamboo](/assets/pictures/forest-bamboo.png)<br><br>
+**Gruber Darker**<br>
+This theme is based on the Gruber Darker color theme for Emacs.
+Originally made by Jason Blevins as a darker variant of the 
+Gruber Dark theme for BBEdit by John Gruber, adapted
+for deftheme and extended for Emacs 24 by Alexey Kutepov a.k.a. rexim.
+Now adepted and extended by fm3chanic (f.m3chanic@gmail.com)
+supporting Notepad++, Gnome Texteditor, Mousepad and the 
+Ksyntaxhighlighting.<br><br>
+![Gruber Darker](/assets/pictures/gruber-darker.png)<br><br>
 **Industrial**<br>
 Based on industrial standard colors. Technically not a material colors scheme, but call it such if you want.<br><br>
 ![Industrial](/assets/pictures/industrial.png)<br><br>
