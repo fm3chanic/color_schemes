@@ -67,7 +67,7 @@ Two themes based around natural green colors.<br><br>
 **Golang Blue**<br>
 This is a theme arround the blue tone from the golang logo. It's base for a lot of colors in the foreground. <br>
 The rest of the color scheme was picked supporting the color with goal to match the simplicity of go.<br><br>
-![Golang Blue](/assets/pictures/golang blue.png)<br><br>
+![Golang Blue](/assets/pictures/golang-blue.png)<br><br>
 **Gruber Darker**<br>
 This theme is based on the Gruber Darker color theme for Emacs.
 Originally made by Jason Blevins as a darker variant of the 
