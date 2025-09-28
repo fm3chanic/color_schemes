@@ -77,7 +77,7 @@ Now adepted and extended by fm3chanic (f.m3chanic@gmail.com)
 supporting Notepad++, Gnome Texteditor, Mousepad and the 
 Ksyntaxhighlighting.<br><br>
 ![Gruber Darker](/assets/pictures/gruber-darker.png)<br><br>
-**High Constrast**<br>
+**High Contrast**<br>
 0% background combined with the 100% foreground and a fully saturated classic colorscheme.<br><br>
 ![High Contrast](/assets/pictures/high-contrast.png)<br><br>
 **Industrial**<br>
