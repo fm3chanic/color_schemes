@@ -34,6 +34,9 @@ Inspired by the beauty of the polar lights.<br><br>
 **Aztec Jungle**<br>
 The feeling of wandering through old ruins in the jungle of mexico.<br><br>
 ![Aztec Jungle](/assets/pictures/aztec-jungle.png)<br><br>
+**Azuretastic**<br>
+If you like blue, this is your theme.<br><br>
+![Azuretastic](/assets/pictures/azuretastic.png)<br><br>
 **Berry**<br>
 ![Berry](/assets/pictures/berry.png)<br><br>
 **Canyon**<br>
@@ -61,6 +64,10 @@ Two themes based around natural green colors.<br><br>
 ![Forest Spruce](/assets/pictures/forest-spruce.png)<br><br>
 *Light - (Bamboo)*<br>
 ![Forest Bamboo](/assets/pictures/forest-bamboo.png)<br><br>
+**Golang Blue**<br>
+This is a theme arround the blue tone from the golang logo. It's base for a lot of colors in the foreground. <br>
+The rest of the color scheme was picked supporting the color with goal to match the simplicity of go.<br><br>
+![Golang Blue](/assets/pictures/golang blue.png)<br><br>
 **Gruber Darker**<br>
 This theme is based on the Gruber Darker color theme for Emacs.
 Originally made by Jason Blevins as a darker variant of the 
@@ -70,6 +77,9 @@ Now adepted and extended by fm3chanic (f.m3chanic@gmail.com)
 supporting Notepad++, Gnome Texteditor, Mousepad and the 
 Ksyntaxhighlighting.<br><br>
 ![Gruber Darker](/assets/pictures/gruber-darker.png)<br><br>
+**High Constrast**<br>
+0% background combined with the 100% foreground and a fully saturated classic colorscheme.<br><br>
+![High Contrast](/assets/pictures/high-contrast.png)<br><br>
 **Industrial**<br>
 Based on industrial standard colors. Technically not a material colors scheme, but call it such if you want.<br><br>
 ![Industrial](/assets/pictures/industrial.png)<br><br>
