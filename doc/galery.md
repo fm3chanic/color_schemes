@@ -101,6 +101,10 @@ This theme is based on the Gruber Darker color theme for Emacs 24 made by Rexim 
 Based on industrial standard colors. Technically not a material colors scheme, but call it such if you want.<br><br>
 ![Industrial](/assets/pictures/text-editor/industrial.png)<br><br>
 ![Industrial](/assets/pictures/terminal/industrial.png)<br><br>
+**Joker**<br>
+Theme around the Joker from Batman.<br><br>
+![Joker](/assets/pictures/text-editor/joker.png)<br><br>
+![Joker](/assets/pictures/terminal/joker.png)<br><br>
 **Mother Nature**<br>
 A classical dark theme with only natural colors. All colors have been extracted from natural pictures like trees, lakes, stones etc.<br><br>
 *Dark*<br>
@@ -112,6 +116,10 @@ A classical dark theme with only natural colors. All colors have been extracted 
 **Nautical**<br>
 ![Nautical](/assets/pictures/text-editor/nautical.png)<br><br>
 ![Nautical](/assets/pictures/terminal/nautical.png)<br><br>
+**Nightmare**<br>
+My reinterpretation of a classical theme based arround spooky colors for Halloween.<br><br>
+![Nightmare](/assets/pictures/text-editor/nightmare.png)<br><br>
+![Nightmare](/assets/pictures/terminal/nightmare.png)<br><br>
 **Pastel Sky**<br>
 Both backgrounds should resemble the sky. One at night the other one during the day. This was combined with colors in pastel.<br><br>
 *Dark*<br>
