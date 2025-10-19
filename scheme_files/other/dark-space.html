@@ -10,17 +10,14 @@ this template is meant as a reference sheet for your color theme
 		<style>
 			body {font-family: monospace;}
 			h3 {font-size: 220%;}
-			table {font-size: 120%;border-collapse: collapse;}
+			table {font-size: 140%;border-collapse: collapse;}
 			td {padding: 18px;border: 1px solid black;}
 			a {font-size: 70%;color: grey}
 		</style>
 	</head>
 	<body>
 		<br>
-		<!--
-		replace 'Theme Name' whith the name of your color sheme
-		-->
-		<h3>Dark Space</h3>
+		<h3>dark-space</h3>
 		<table>
 			<tr>
 				<th>DESC</th>
@@ -28,16 +25,12 @@ this template is meant as a reference sheet for your color theme
 				<th>COLOR</th>
 			</tr>
 			<tr>
-			<!--
-			write color codes all in upper case and remove the '#' from the code
-			in col 'HEX CODE'
-			-->
 				<td>Background - 1st level<br><a>UI: default text bg</a></td>
 				<td>#1e151e</td>
 				<td style="background-color:#1e151e;"></td>
 			</tr>
 			<tr>
-				<td>Background - 2nd level<br><a>UI: inactive tabs / files text bg</a></td>
+				<td>Background - 2nd level<br><a>UI: inactive tab or file bg, 2nd level surfaces bg</a></td>
 				<td>#2d1f2d</td>
 				<td style="background-color:#2d1f2d;"></td>
 			</tr>
@@ -47,17 +40,18 @@ this template is meant as a reference sheet for your color theme
 				<td style="background-color:#3c2a3c;"></td>
 			</tr>
 			<tr>
-				<td>Foreground - 1st level<br><a>UI: cursor<br>SYNTAX: default text fg</a></td>
+				<td>Foreground - 1st level<br><a>UI: cursor
+                <br>SYNTAX: default text, variables / identifiers, operators, numbers</a></td>
 				<td>#d5c3d5</td>
 				<td style="background-color:#d5c3d5;"></td>
 			</tr>
 			<tr>
-				<td>Foreground - 2nd level<br><a>UI: active tabs, inactive tabs / files text fg<br>SYNTAX: misc</a></td>
+				<td>Foreground - 2nd level<br><a>UI: 2nd level surfaces fg, inactive tab or file fG</td>
 				<td>#c0a5c0</td>
 				<td style="background-color:#c0a5c0;"></td>
 			</tr>
 			<tr>
-				<td>Foreground - 3rd level<br><a>UI: fold, line numbers<br>SYNTAX: comments</a></td>
+				<td>Foreground - 3rd level<br><a>UI: fold, line numbers</a></td>
 				<td>#ab87ab</td>
 				<td style="background-color:#ab87ab;"></td>
 			</tr>
@@ -84,66 +78,46 @@ this template is meant as a reference sheet for your color theme
 				<th>HEX CODE</th>
 				<th>COLOR</th>
 			</tr>
+            <!-- terminal colors are default AND bright colors; 
+            both have the same value for better compatibility with terminal editors & CLI tools-->
 			<tr>
-				<td>main 1<br><a>UI: change history modified<br>SYNTAX: method, function, regex, alert, error</a></td>
+				<td>syntax 1<br><a>UI: change history modified, alert, error
+                <br>SYNTAX: qualifier, symbols (question mark, shebang, etc.)<br>TERMINAL: red</a></td>
 				<td>#f471b3</td>
 				<td style="background-color:#f471b3;"></td>
 			</tr>
 			<tr>
-				<td>main 2<br><a>UI: change history revert origin<br>SYNTAX: class, group, section, type, pre-processor</a></td>
-				<td>#f4d371</td>
-				<td style="background-color:#f4d371;"></td>
-			</tr>
-			<tr>
-				<td>main 3<br><a>SYNTAX: number, verbatim</a></td>
-				<td>#f471f4</td>
-				<td style="background-color:#f471f4;"></td>
-			</tr>
-			<tr>
-				<td>main 4<br><a>SYNTAX: string, char, tag, label</a></td>
+				<td>syntax 2<br><a>UI: change history revert origin, change history revert modified, warnings
+                <br>SYNTAX: strings, regex, preprocessor<br>TERMINAL: yellow</a></td>
 				<td>#f4b371</td>
 				<td style="background-color:#f4b371;"></td>
 			</tr>
 			<tr>
-				<td>main 5<br><a>UI: change history revert modified<br>SYNTAX: macro, opertor, attribute, variable</a></td>
+				<td>syntax 3<br><a>SYNTAX: functions, methods<br>TERMINAL: cyan</a></td>
 				<td>#b371f4</td>
 				<td style="background-color:#b371f4;"></td>
 			</tr>
 			<tr>
-				<td>main 6<br><a>UI: change history saved<br>SYNTAX: instruction, keyword, command</a></td>
+				<td>syntax 4<br><a>UI: change history saved
+                <br>SYNTAX: conditionals, keywords, tags<br>TERMINAL: green</a></td>
 				<td>#f49271</td>
 				<td style="background-color:#f49271;"></td>
 			</tr>
 			<tr>
-				<td>sub 1<br><a>UI: tab color, misc color coding<br>SYNTAX: function(2), method(2), alert(2), error(2)</a></td>
-				<td>#f8a0cc</td>
-				<td style="background-color:#f8a0cc;"></td>
+				<td>syntax 5<br><a>SYNTAX: keys, types<br>TERMINAL: blue</a></td>
+				<td>#f4d371</td>
+				<td style="background-color:#f4d371;"></td>
 			</tr>
 			<tr>
-				<td>sub 2<br><a>UI: tab color, misc color coding<br>SYNTAX: type(2), section(2), group(2), class(2), arrays</a></td>
-				<td>#f8e2a0</td>
-				<td style="background-color:#f8e2a0;"></td>
+				<td>syntax 6<br><a>SYNTAX: booleans, miscellaneous<br>TERMINAL: magenta (purple)</a></td>
+				<td>#f471f4</td>
+				<td style="background-color:#f471f4;"></td>
 			</tr>
 			<tr>
-				<td>sub 3<br><a>UI: tab color, misc color coding<br>SYNTAX: number(2), parameters(2)</a></td>
-				<td>#f8a0f8</td>
-				<td style="background-color:#f8a0f8;"></td>
+				<td>syntax 7<br><a>SYNTAX: comments</a></td>
+				<td>#ab87ab</td>
+				<td style="background-color:#ab87ab;"></td>
 			</tr>
-			<tr>
-				<td>sub 4<br><a>UI: tab color, misc color coding<br>SYNTAX: string(2), char(2), tag(2), label(2)</a></td>
-				<td>#f8cca0</td>
-				<td style="background-color:#f8cca0;"></td>
-			</tr>
-			<tr>
-				<td>sub 5<br><a>UI: tab color, misc color coding<br>SYNTAX: operator(2), attribute(2), variable(2), identifiers</a></td>
-				<td>#cca0f8</td>
-				<td style="background-color:#cca0f8;"></td>
-			</tr>
-			<tr>
-				<td>sub 6<br><a>UI: tab color, misc color coding<br>SYNTAX: instruction(2), keyword(2), command(2)</a></td>
-				<td>#f8b6a0</td>
-				<td style="background-color:#f8b6a0;"></td>
-			</tr>				
 		</table>
 		<br>
 	</body>

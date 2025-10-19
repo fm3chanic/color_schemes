@@ -17,10 +17,7 @@ this template is meant as a reference sheet for your color theme
 	</head>
 	<body>
 		<br>
-		<!--
-		replace 'Theme Name' whith the name of your color sheme
-		-->
-		<h3>Kokonuts</h3>
+		<h3>kokonuts</h3>
 		<table>
 			<tr>
 				<th>DESC</th>
@@ -28,16 +25,12 @@ this template is meant as a reference sheet for your color theme
 				<th>COLOR</th>
 			</tr>
 			<tr>
-			<!--
-			write color codes all in upper case and remove the '#' from the code
-			in col 'HEX CODE'
-			-->
 				<td>Background - 1st level<br><a>UI: default text bg</a></td>
 				<td>#f9ebb8</td>
 				<td style="background-color:#f9ebb8;"></td>
 			</tr>
 			<tr>
-				<td>Background - 2nd level<br><a>UI: inactive tabs / files text bg</a></td>
+				<td>Background - 2nd level<br><a>UI: inactive tab or file bg, 2nd level surfaces bg</a></td>
 				<td>#f7e4a1</td>
 				<td style="background-color:#f7e4a1;"></td>
 			</tr>
@@ -47,17 +40,18 @@ this template is meant as a reference sheet for your color theme
 				<td style="background-color:#f5de8a;"></td>
 			</tr>
 			<tr>
-				<td>Foreground - 1st level<br><a>UI: cursor<br>SYNTAX: default text fg</a></td>
+				<td>Foreground - 1st level<br><a>UI: cursor
+                <br>SYNTAX: default text, variables / identifiers, operators, numbers</a></td>
 				<td>#3d0f2c</td>
 				<td style="background-color:#3d0f2c;"></td>
 			</tr>
 			<tr>
-				<td>Foreground - 2nd level<br><a>UI: active tabs, inactive tabs / files text fg<br>SYNTAX: misc</a></td>
+				<td>Foreground - 2nd level<br><a>UI: 2nd level surfaces fg, inactive tab or file fG</td>
 				<td>#602048</td>
 				<td style="background-color:#602048;"></td>
 			</tr>
 			<tr>
-				<td>Foreground - 3rd level<br><a>UI: fold, line numbers<br>SYNTAX: comments</a></td>
+				<td>Foreground - 3rd level<br><a>UI: fold, line numbers</a></td>
 				<td>#7d3662</td>
 				<td style="background-color:#7d3662;"></td>
 			</tr>
@@ -65,17 +59,17 @@ this template is meant as a reference sheet for your color theme
 				<td>Highlight - 1st level<br><a>UI: alternative marks</a></td>
 				<td>#95507c</td>
 				<td style="background-color:#95507c;"></td>
-			</tr>
+			</tr>	
 			<tr>
 				<td>Highlight - 2nd level<br><a>UI: selection, search marks, fold marks</a></td>
 				<td>#af6a95</td>
 				<td style="background-color:#af6a95;"></td>
-			</tr>
+			</tr>	
 			<tr>
 				<td>Highlight - 3rd level<br><a>UI: current line</a></td>
 				<td>#c18bad</td>
 				<td style="background-color:#c18bad;"></td>
-			</tr>
+			</tr>				
 		</table>
 		<br>
 		<table>
@@ -84,66 +78,46 @@ this template is meant as a reference sheet for your color theme
 				<th>HEX CODE</th>
 				<th>COLOR</th>
 			</tr>
+            <!-- terminal colors are default AND bright colors; 
+            both have the same value for better compatibility with terminal editors & CLI tools-->
 			<tr>
-				<td>main 1<br><a>UI: change history modified<br>SYNTAX: method, function, regex, alert, error</a></td>
+				<td>syntax 1<br><a>UI: change history modified, alert, error
+                <br>SYNTAX: qualifier, symbols (question mark, shebang, etc.)<br>TERMINAL: red</a></td>
 				<td>#922a07</td>
 				<td style="background-color:#922a07;"></td>
 			</tr>
 			<tr>
-				<td>main 2<br><a>UI: change history revert origin<br>SYNTAX: class, group, section, type, pre-processor</a></td>
-				<td>#6f0891</td>
-				<td style="background-color:#6f0891;"></td>
-			</tr>
-			<tr>
-				<td>main 3<br><a>SYNTAX: number, verbatim</a></td>
-				<td>#914d08</td>
-				<td style="background-color:#914d08;"></td>
-			</tr>
-			<tr>
-				<td>main 4<br><a>SYNTAX: string, char, tag, label</a></td>
+				<td>syntax 2<br><a>UI: change history revert origin, change history revert modified, warnings
+                <br>SYNTAX: strings, regex, preprocessor<br>TERMINAL: yellow</a></td>
 				<td>#91086f</td>
 				<td style="background-color:#91086f;"></td>
 			</tr>
 			<tr>
-				<td>main 5<br><a>UI: change history revert modified<br>SYNTAX: macro, opertor, attribute, variable</a></td>
+				<td>syntax 3<br><a>SYNTAX: functions, methods<br>TERMINAL: cyan</a></td>
 				<td>#916f08</td>
 				<td style="background-color:#916f08;"></td>
 			</tr>
 			<tr>
-				<td>main 6<br><a>UI: change history saved<br>SYNTAX: instruction, keyword, command</a></td>
+				<td>syntax 4<br><a>UI: change history saved
+                <br>SYNTAX: conditionals, keywords, tags<br>TERMINAL: green</a></td>
 				<td>#91082a</td>
 				<td style="background-color:#91082a;"></td>
 			</tr>
 			<tr>
-				<td>sub 1<br><a>UI: tab color, misc color coding<br>SYNTAX: function(2), method(2), alert(2), error(2)</a></td>
-				<td>#c33809</td>
-				<td style="background-color:#c33809;"></td>
+				<td>syntax 5<br><a>SYNTAX: keys, types<br>TERMINAL: blue</a></td>
+				<td>#6f0891</td>
+				<td style="background-color:#6f0891;"></td>
 			</tr>
 			<tr>
-				<td>sub 2<br><a>UI: tab color, misc color coding<br>SYNTAX: type(2), section(2), group(2), class(2), arrays</a></td>
-				<td>#940ac2</td>
-				<td style="background-color:#940ac2;"></td>
+				<td>syntax 6<br><a>SYNTAX: booleans, miscellaneous<br>TERMINAL: magenta (purple)</a></td>
+				<td>#914d08</td>
+				<td style="background-color:#914d08;"></td>
 			</tr>
 			<tr>
-				<td>sub 3<br><a>UI: tab color, misc color coding<br>SYNTAX: number(2), parameters(2)</a></td>
-				<td>#c2660a</td>
-				<td style="background-color:#c2660a;"></td>
+				<td>syntax 7<br><a>SYNTAX: comments</a></td>
+				<td>#8a7a42</td>
+				<td style="background-color:#8a7a42;"></td>
 			</tr>
-			<tr>
-				<td>sub 4<br><a>UI: tab color, misc color coding<br>SYNTAX: string(2), char(2), tag(2), label(2)</a></td>
-				<td>#c20a94</td>
-				<td style="background-color:#c20a94;"></td>
-			</tr>
-			<tr>
-				<td>sub 5<br><a>UI: tab color, misc color coding<br>SYNTAX: operator(2), attribute(2), variable(2), identifiers</a></td>
-				<td>#c2940a</td>
-				<td style="background-color:#c2940a;"></td>
-			</tr>
-			<tr>
-				<td>sub 6<br><a>UI: tab color, misc color coding<br>SYNTAX: instruction(2), keyword(2), command(2)</a></td>
-				<td>#c20a38</td>
-				<td style="background-color:#c20a38;"></td>
-			</tr>				
 		</table>
 		<br>
 	</body>
