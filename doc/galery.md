@@ -93,6 +93,26 @@ The rest of the color scheme was picked supporting the color with goal to match 
 This theme is based on the Gruber Darker color theme for Emacs 24 made by Rexim aka. Tsoding.<br><br>
 ![Gruber Darker](/assets/pictures/text-editor/gruber-darker.png)<br><br>
 ![Gruber Darker](/assets/pictures/terminal/gruber-darker.png)<br><br>
+**Gruvbox**<br>
+Based on the popular color scheme by Pavel Pertsev.<br><br>
+*Dark - Hard*<br>
+![Mother Nature - Dark -](/assets/pictures/text-editor/gruvbox-dark-hard.png)<br><br>
+![Mother Nature - Dark -](/assets/pictures/terminal/gruvbox-dark-hard.png)<br><br>
+*Dark - Medium*<br>
+![Mother Nature - Dark -](/assets/pictures/text-editor/gruvbox-dark-medium.png)<br><br>
+![Mother Nature - Dark -](/assets/pictures/terminal/gruvbox-dark-medium.png)<br><br>
+*Dark - Soft*<br>
+![Mother Nature - Dark -](/assets/pictures/text-editor/gruvbox-dark-soft.png)<br><br>
+![Mother Nature - Dark -](/assets/pictures/terminal/gruvbox-dark-soft.png)<br><br>
+*Light - Hard*<br>
+![Mother Nature - Light -](/assets/pictures/text-editor/gruvbox-light-hard.png)<br><br>
+![Mother Nature - Light -](/assets/pictures/terminal/gruvbox-light-hard.png)<br><br>
+*Light - Medium*<br>
+![Mother Nature - Light -](/assets/pictures/text-editor/gruvbox-light-medium.png)<br><br>
+![Mother Nature - Light -](/assets/pictures/terminal/gruvbox-light-medium.png)<br><br>
+*Light - Soft*<br>
+![Mother Nature - Light -](/assets/pictures/text-editor/gruvbox-light-soft.png)<br><br>
+![Mother Nature - Light -](/assets/pictures/terminal/gruvbox-light-soft.png)<br><br>
 **High Contrast**<br>
 0% background combined with the 100% foreground and a fully saturated classic colorscheme.<br><br>
 ![High Contrast](/assets/pictures/text-editor/high-contrast.png)<br><br>
