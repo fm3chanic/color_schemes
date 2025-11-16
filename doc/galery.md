@@ -57,6 +57,10 @@ If you like blue, this is your theme.<br><br>
 A theme based on a common set of colors for a simple look.<br><br>
 ![Classic](/assets/pictures/text-editor/classic.png)<br><br>
 ![Classic](/assets/pictures/terminal/classic.png)<br><br>
+**Cryogenic**<br>
+A secret laboratory on a frozen world...<br><br>
+![Cryogenic](/assets/pictures/text-editor/cryogenic.png)<br><br>
+![Cryogenic](/assets/pictures/terminal/cryogenic.png)<br><br>
 **Cyberpunk**<br>
 ![Cyberpunk](/assets/pictures/text-editor/cyberpunk.png)<br><br>
 ![Cyberpunk](/assets/pictures/terminal/cyberpunk.png)<br><br>
@@ -125,6 +129,10 @@ Based on industrial standard colors. Technically not a material colors scheme, b
 Theme around the Joker from Batman.<br><br>
 ![Joker](/assets/pictures/text-editor/joker.png)<br><br>
 ![Joker](/assets/pictures/terminal/joker.png)<br><br>
+**Metropolis**<br>
+The picture I had in mind while making this was one of the modern mega cities at a autmn night. A dimmed slightly cold but color full atmosphere.<br><br>
+![metropolis](/assets/pictures/text-editor/metropolis.png)<br><br>
+![metropolis](/assets/pictures/terminal/metropolis.png)<br><br>
 **Mother Nature**<br>
 A classical dark theme with only natural colors. All colors have been extracted from natural pictures like trees, lakes, stones etc.<br><br>
 *Dark*<br>
@@ -164,6 +172,13 @@ My first theme I made. There was a rework since then, yet the base colors and co
 *Light*<br>
 ![Sakura Haruno - Light -](/assets/pictures/text-editor/sakura-haruno-light.png)<br><br>
 ![Sakura Haruno - Light -](/assets/pictures/terminal/sakura-haruno-light.png)<br><br>
+**Solarpunk**<br>
+The last member of the punk generes I wanted to add.<br>
+One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not ubuntu default.<br>
+It was solarized. There are people loving it. There are people hating it. I was one of those who liked the idea, but not the implementation.<br>
+This is my solution for a better (in my eyes) implementation of the solar punk genere as editor / terminal theme.<br><br>
+![Solarpunk](/assets/pictures/text-editor/solarpunk.png)<br><br>
+![Solarpunk](/assets/pictures/terminal/solarpunk.png)<br><br>
 **Steampunk**<br>
 ![Steampunk](/assets/pictures/text-editor/steampunk.png)<br><br>
 ![Steampunk](/assets/pictures/terminal/steampunk.png)<br><br>
