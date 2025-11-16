@@ -130,7 +130,7 @@ Theme around the Joker from Batman.<br><br>
 ![Joker](/assets/pictures/text-editor/joker.png)<br><br>
 ![Joker](/assets/pictures/terminal/joker.png)<br><br>
 **Metropolis**<br>
-The picture I had in mind while making this was one of the modern mega cities at a autmn night. A dimmed slightly cold but color full atmosphere.<br><br>
+The picture I had in mind while making this was one of the modern mega cities at a autmn night. A dimmed slightly cold but colorful atmosphere.<br><br>
 ![metropolis](/assets/pictures/text-editor/metropolis.png)<br><br>
 ![metropolis](/assets/pictures/terminal/metropolis.png)<br><br>
 **Mother Nature**<br>
@@ -174,8 +174,8 @@ My first theme I made. There was a rework since then, yet the base colors and co
 ![Sakura Haruno - Light -](/assets/pictures/terminal/sakura-haruno-light.png)<br><br>
 **Solarpunk**<br>
 The last member of the punk generes I wanted to add.<br>
-One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not ubuntu default.<br>
-It was solarized. There are people loving it. There are people hating it. I was one of those who liked the idea, but not the implementation.<br>
+One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not ubuntu default.
+It was solarized.<br>There are people loving it. There are people hating it. I was one of those who liked the idea, but not the implementation.<br>
 This is my solution for a better (in my eyes) implementation of the solar punk genere as editor / terminal theme.<br><br>
 ![Solarpunk](/assets/pictures/text-editor/solarpunk.png)<br><br>
 ![Solarpunk](/assets/pictures/terminal/solarpunk.png)<br><br>
