@@ -122,7 +122,8 @@ Based on the popular color scheme by Pavel Pertsev.<br><br>
 ![High Contrast](/assets/pictures/text-editor/high-contrast.png)<br><br>
 ![High Contrast](/assets/pictures/terminal/high-contrast.png)<br><br>
 **Industrial**<br>
-Based on industrial standard colors. Technically not a material colors scheme, but call it such if you want.<br><br>
+Based on industrial standard colors. Technically not a material colors scheme, but call it such if you want.<br>
+Unrelated to industrial art genre.<br><br>
 ![Industrial](/assets/pictures/text-editor/industrial.png)<br><br>
 ![Industrial](/assets/pictures/terminal/industrial.png)<br><br>
 **Joker**<br>
@@ -148,6 +149,11 @@ A classical dark theme with only natural colors. All colors have been extracted 
 My reinterpretation of a classical theme based arround spooky colors for Halloween.<br><br>
 ![Nightmare](/assets/pictures/text-editor/nightmare.png)<br><br>
 ![Nightmare](/assets/pictures/terminal/nightmare.png)<br><br>
+**Neo-Industrial**<br>
+A flat yet futuristic colors on burnished steel and worn-out white colors. Having in mind industrial sites in futuristic artworks.<br>
+This was actually inspired by my cryogenic theme, which has also this rather industrial color set.<br><br>
+![Neo-Industrial](/assets/pictures/text-editor/neo-industrial.png)<br><br>
+![Neo-Industrial](/assets/pictures/terminal/neo-industrial.png)<br><br>
 **Pastel Sky**<br>
 Both backgrounds should resemble the sky. One at night the other one during the day. This was combined with colors in pastel.<br><br>
 *Dark*<br>
