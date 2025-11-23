@@ -151,12 +151,12 @@ My reinterpretation of a classical theme based arround spooky colors for Hallowe
 ![Nightmare](/assets/pictures/text-editor/nightmare.png)<br><br>
 ![Nightmare](/assets/pictures/terminal/nightmare.png)<br><br>
 **Neo-Industrial**<br>
-A flat yet futuristic colors on burnished steel and worn-out white colors. Having in mind industrial sites in futuristic artworks.<br>
-This was actually inspired by my cryogenic theme, which has also this rather industrial color set.<br><br>
+Flat yet futuristic colors on burnished steel and worn-out white colors. Having in mind industrial sites in futuristic artworks.<br>
+This is an actual child from my cryogenic theme, which has also this rather industrial color set.<br><br>
 ![Neo-Industrial](/assets/pictures/text-editor/neo-industrial.png)<br><br>
 ![Neo-Industrial](/assets/pictures/terminal/neo-industrial.png)<br><br>
 **Oceanic**<br>
-Low saturated ocean green background, combined with aqua blue foreground and a colorscheme for syntax highlighting which is based on sea foam, corals, sand and seaweed.<br><br>
+Low saturated ocean green background, combined with aqua blue foreground and a colorscheme for syntax highlighting which is based<br>on sea foam, corals, sand and seaweed.<br><br>
 ![Oceanic](/assets/pictures/text-editor/oceanic.png)<br><br>
 ![Oceanic](/assets/pictures/terminal/oceanic.png)<br><br>
 **Pastel Sky**<br>
@@ -184,7 +184,7 @@ My first theme I made. There was a rework since then, yet the base colors and co
 ![Sakura Haruno - Light -](/assets/pictures/text-editor/sakura-haruno-light.png)<br><br>
 ![Sakura Haruno - Light -](/assets/pictures/terminal/sakura-haruno-light.png)<br><br>
 **Solarpunk**<br>
-The last member of the punk generes I wanted to add.<br>
+The last member of the punk genere I wanted to add.<br>
 One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not gnome.
 It was solarized.<br>There are people loving it. There are people hating it. I was one of those who liked the idea, but not the implementation.<br>
 This is my solution for a better (in my eyes) implementation of the solar punk genere as editor / terminal theme.<br><br>
