@@ -135,7 +135,8 @@ The picture I had in mind while making this was one of the modern mega cities at
 ![metropolis](/assets/pictures/text-editor/metropolis.png)<br><br>
 ![metropolis](/assets/pictures/terminal/metropolis.png)<br><br>
 **Mother Nature**<br>
-A classical dark theme with only natural colors. All colors have been extracted from natural pictures like trees, lakes, stones etc.<br><br>
+A classical dark theme with only natural colors. All colors have been extracted from natural pictures like trees, lakes, stones etc.<br>
+The dark theme has been adjusted to fit the terminal colors a little better.<br><br>
 *Dark*<br>
 ![Mother Nature - Dark -](/assets/pictures/text-editor/mother-nature-dark.png)<br><br>
 ![Mother Nature - Dark -](/assets/pictures/terminal/mother-nature-dark.png)<br><br>
@@ -154,6 +155,10 @@ A flat yet futuristic colors on burnished steel and worn-out white colors. Havin
 This was actually inspired by my cryogenic theme, which has also this rather industrial color set.<br><br>
 ![Neo-Industrial](/assets/pictures/text-editor/neo-industrial.png)<br><br>
 ![Neo-Industrial](/assets/pictures/terminal/neo-industrial.png)<br><br>
+**Oceanic**<br>
+Low saturated ocean green background, combined with aqua blue foreground and a colorscheme for syntax highlighting which is based on sea foam, corals, sand and seaweed.<br><br>
+![Oceanic](/assets/pictures/text-editor/oceanic.png)<br><br>
+![Oceanic](/assets/pictures/terminal/oceanic.png)<br><br>
 **Pastel Sky**<br>
 Both backgrounds should resemble the sky. One at night the other one during the day. This was combined with colors in pastel.<br><br>
 *Dark*<br>
@@ -180,7 +185,7 @@ My first theme I made. There was a rework since then, yet the base colors and co
 ![Sakura Haruno - Light -](/assets/pictures/terminal/sakura-haruno-light.png)<br><br>
 **Solarpunk**<br>
 The last member of the punk generes I wanted to add.<br>
-One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not ubuntu default.
+One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not gnome.
 It was solarized.<br>There are people loving it. There are people hating it. I was one of those who liked the idea, but not the implementation.<br>
 This is my solution for a better (in my eyes) implementation of the solar punk genere as editor / terminal theme.<br><br>
 ![Solarpunk](/assets/pictures/text-editor/solarpunk.png)<br><br>
