@@ -61,10 +61,10 @@ If you like blue, this is your theme.<br><br>
 ![Canyon](/assets/pictures/text-editor/canyon.png)<br><br>
 ![Canyon](/assets/pictures/terminal/canyon.png)<br><br>
 **Christmas**<br>
-*Dark*<br>
+*Red*<br>
 ![christmas - red -](/assets/pictures/text-editor/christmas-red.png)<br><br>
 ![christmas - red -](/assets/pictures/terminal/christmas-red.png)<br><br>
-*Light*<br>
+*Green*<br>
 ![christmas - green -](/assets/pictures/text-editor/christmas-green.png)<br><br>
 ![christmas - green -](/assets/pictures/terminal/christmas-green.png)<br><br>
 **Classic**<br>
