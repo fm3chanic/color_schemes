@@ -50,7 +50,7 @@ If you like blue, this is your theme.<br><br>
 **Berry**<br>
 ![Berry](/assets/pictures/text-editor/berry.png)<br><br>
 ![Berry](/assets/pictures/terminal/berry.png)<br><br>
-**Candy-Cane**
+**Candy-Cane**<br>
 *Dark*<br>
 ![Candy Cane - Dark -](/assets/pictures/text-editor/candy-cane-dark.png)<br><br>
 ![Candy Cane - Dark -](/assets/pictures/terminal/candy-cane-dark.png)<br><br>
@@ -62,11 +62,11 @@ If you like blue, this is your theme.<br><br>
 ![Canyon](/assets/pictures/terminal/canyon.png)<br><br>
 **Christmas**<br>
 *Dark*<br>
-![christmas - red -](/assets/pictures/text-editor/pastel-sky-red.png)<br><br>
-![christmas - red -](/assets/pictures/terminal/pastel-sky-red.png)<br><br>
+![christmas - red -](/assets/pictures/text-editor/christmas-red.png)<br><br>
+![christmas - red -](/assets/pictures/terminal/christmas-red.png)<br><br>
 *Light*<br>
-![christmas - green -](/assets/pictures/text-editor/pastel-sky-green.png)<br><br>
-![christmas - green -](/assets/pictures/terminal/pastel-sky-green.png)<br><br>
+![christmas - green -](/assets/pictures/text-editor/christmas-green.png)<br><br>
+![christmas - green -](/assets/pictures/terminal/christmas-green.png)<br><br>
 **Classic**<br>
 A theme based on a common set of colors for a simple look.<br><br>
 ![Classic](/assets/pictures/text-editor/classic.png)<br><br>
