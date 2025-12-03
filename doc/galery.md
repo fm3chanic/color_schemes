@@ -135,6 +135,9 @@ Based on the popular color scheme by Pavel Pertsev.<br><br>
 0% background combined with the 100% foreground and a fully saturated classic colorscheme.<br><br>
 ![High Contrast](/assets/pictures/text-editor/high-contrast.png)<br><br>
 ![High Contrast](/assets/pictures/terminal/high-contrast.png)<br><br>
+**Ice Shelf**<br>
+![Ice Shelf](/assets/pictures/text-editor/ice-shelf.png)<br><br>
+![Ice Shelf](/assets/pictures/terminal/ice-shelf.png)<br><br>
 **Industrial**<br>
 Based on industrial standard colors. Technically not a material colors scheme, but call it such if you want.<br>
 Unrelated to industrial art genre.<br><br>
