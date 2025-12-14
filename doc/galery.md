@@ -126,5 +126,8 @@ This is my solution for a better (in my eyes) implementation of the solar punk g
 **Steampunk**<br>
 ![](/assets/pictures/text-editor/steampunk.png)<br><br>
 ![](/assets/pictures/terminal/steampunk.png)<br><br>
+**Tundra**<br>
+![](/assets/pictures/text-editor/tundra.png)<br><br>
+![](/assets/pictures/terminal/tundra.png)<br><br>
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
