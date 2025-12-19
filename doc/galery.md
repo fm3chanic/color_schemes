@@ -70,6 +70,28 @@ The goal was to capture the grim atmossphere of Dieselpunk in a color scheme.<br
 This theme is based on the Gruber Darker color theme for Emacs 24 made by Rexim aka. Tsoding.<br><br>
 ![](/assets/pictures/text-editor/gruber-darker.png)<br><br>
 ![](/assets/pictures/terminal/gruber-darker.png)<br><br>
+**Gruvbox**<br>
+Based on the popular color scheme by Pavel Pertsev.<br>
+Focus was bringing out a fresh version for Notepad++, with the broad amount of lexer types I support.
+For the other applications gruvbox may be already available and have only been added to my repos, because I could.<br><br>
+*Dark - Hard*<br>
+![](/assets/pictures/text-editor/gruvbox-dark-hard.png)<br><br>
+![](/assets/pictures/terminal/gruvbox-dark-hard.png)<br><br>
+*Dark - Medium*<br>
+![](/assets/pictures/text-editor/gruvbox-dark-medium.png)<br><br>
+![](/assets/pictures/terminal/gruvbox-dark-medium.png)<br><br>
+*Dark - Soft*<br>
+![](/assets/pictures/text-editor/gruvbox-dark-soft.png)<br><br>
+![](/assets/pictures/terminal/gruvbox-dark-soft.png)<br><br>
+*Light - Hard*<br>
+![](/assets/pictures/text-editor/gruvbox-light-hard.png)<br><br>
+![](/assets/pictures/terminal/gruvbox-light-hard.png)<br><br>
+*Light - Medium*<br>
+![](/assets/pictures/text-editor/gruvbox-light-medium.png)<br><br>
+![](/assets/pictures/terminal/gruvbox-light-medium.png)<br><br>
+*Light - Soft*<br>
+![](/assets/pictures/text-editor/gruvbox-light-soft.png)<br><br>
+![](/assets/pictures/terminal/gruvbox-light-soft.png)<br><br>
 **Ice Shelf**<br>
 ![](/assets/pictures/text-editor/ice-shelf.png)<br><br>
 ![](/assets/pictures/terminal/ice-shelf.png)<br><br>
