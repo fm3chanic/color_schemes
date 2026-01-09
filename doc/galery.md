@@ -96,6 +96,10 @@ A classical dark theme with only natural colors. All colors have been extracted 
 This theme is a child of my cryogenic theme. Combining it's features with a brown / dirty-white foreground.<br><br>
 ![](/assets/pictures/text-editor/neo-industrial.png)<br><br>
 ![](/assets/pictures/terminal/neo-industrial.png)<br><br>
+**Nightmare**<br>
+Halloween in a comic book.<br><br>
+![](/assets/pictures/text-editor/nightmare.png)<br><br>
+![](/assets/pictures/terminal/nightmare.png)<br><br>
 **Oceanic**<br>
 Low saturated ocean green background, combined with aqua blue foreground and a colorscheme for syntax highlighting which is based<br>on sea foam, corals, sand and seaweed.<br><br>
 ![](/assets/pictures/text-editor/oceanic.png)<br><br>
@@ -126,5 +130,9 @@ This is my solution for a better (in my eyes) implementation of the solar punk g
 **Steampunk**<br>
 ![](/assets/pictures/text-editor/steampunk.png)<br><br>
 ![](/assets/pictures/terminal/steampunk.png)<br><br>
+**Vintage**<br>
+...because "vintage" themes often feel retro, but not "vintage".<br><br>
+![](/assets/pictures/text-editor/vintage.png)<br><br>
+![](/assets/pictures/terminal/vintage.png)<br><br>
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
