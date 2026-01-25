@@ -54,6 +54,11 @@ A secret laboratory on a frozen world...<br><br>
 Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br><br>
 ![](/assets/pictures/text-editor/cyrodiil.png)<br><br>
 ![](/assets/pictures/terminal/cyrodiil.png)<br><br>
+**Cyberstorm**<br>
+Main colors are taken from my cyberpunk theme, the rest comes from my nightmare, metropolis and cryogenic.<br>
+The simularity to tokyo night storm is on purpose, as I wanted make something similar combinging cyberpunk and urban colors. I would say core difference is, that I use less saturated colors in general and adding my own notes with working in the 9 color scale for the main colors.<br><br>
+![](/assets/pictures/text-editor/cyberstorm.png)<br><br>
+![](/assets/pictures/terminal/cyberstorm.png)<br><br>
 **Dark Space**<br>
 My goal was the resemble feeling of space in sci-fi.<br><br>
 ![](/assets/pictures/text-editor/dark-space.png)<br><br>
