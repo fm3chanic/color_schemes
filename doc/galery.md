@@ -78,10 +78,6 @@ This theme is based on the Gruber Darker color theme for Emacs 24 made by Rexim 
 **Ice Shelf**<br>
 ![](/assets/pictures/text-editor/ice-shelf.png)<br><br>
 ![](/assets/pictures/terminal/ice-shelf.png)<br><br>
-**Joker**<br>
-Theme around the Joker from Batman.<br><br>
-![](/assets/pictures/text-editor/joker.png)<br><br>
-![](/assets/pictures/terminal/joker.png)<br><br>
 **Metropolis**<br>
 The picture I had in mind while making this was one of the modern mega cities at a autmn night. A dimmed slightly cold but colorful atmosphere.<br><br>
 ![](/assets/pictures/text-editor/metropolis.png)<br><br>
@@ -135,6 +131,10 @@ This is my solution for a better (in my eyes) implementation of the solar punk g
 **Steampunk**<br>
 ![](/assets/pictures/text-editor/steampunk.png)<br><br>
 ![](/assets/pictures/terminal/steampunk.png)<br><br>
+**Synthetic**<br>
+This theme should mimic the look of an old inverted digital display. Combined with some poppy colors you get a "synthetic" look.<br><br>
+![](/assets/pictures/text-editor/synthetic.png)<br><br>
+![](/assets/pictures/terminal/synthetic.png)<br><br>
 **Vintage**<br>
 ...because "vintage" themes often feel retro, but not "vintage".<br><br>
 ![](/assets/pictures/text-editor/vintage.png)<br><br>
