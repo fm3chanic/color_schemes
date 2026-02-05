@@ -132,7 +132,8 @@ This is my solution for a better (in my eyes) implementation of the solar punk g
 ![](/assets/pictures/text-editor/steampunk.png)<br><br>
 ![](/assets/pictures/terminal/steampunk.png)<br><br>
 **Synthetic**<br>
-This theme should mimic the look of an old inverted digital display. Combined with some retro colors (when I played with the colors I had the 80's in mind) you get a "synthetic" look.<br><br>
+This theme should mimic the look of an old inverted digital display.<br>
+Combined with some retro colors (I had the 80's in mind) you get a "synthetic" look.<br><br>
 ![](/assets/pictures/text-editor/synthetic.png)<br><br>
 ![](/assets/pictures/terminal/synthetic.png)<br><br>
 **Vintage**<br>
