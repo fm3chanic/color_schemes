@@ -160,7 +160,6 @@ A medium light theme with a slightly burned color scheme and foreground.<br><br>
 ![](/assets/pictures/text-editor/zen.png)<br><br>
 ![](/assets/pictures/terminal/zen.png)<br><br>
 *Red Version*<br>
-While making this I thought a red would fit nicely as well having the Sith (Star Wars) in mind.<br><br>
 ![](/assets/pictures/text-editor/zen-red.png)<br><br>
 ![](/assets/pictures/terminal/zen-red.png)<br><br>
 
