@@ -43,8 +43,15 @@ Inspired by the beauty of the polar lights.<br><br>
 The feeling of wandering through old ruins in the jungle of mexico.<br><br>
 ![](/assets/pictures/text-editor/aztec-jungle.png)<br><br>
 ![](/assets/pictures/terminal/aztec-jungle.png)<br><br>
+**Bamboo**<br>
+A light theme made arround the color bamboo green. For fresh thoughts and peace of mind.<br><br>
+![](/assets/pictures/text-editor/bamboo.png)<br><br>
+![](/assets/pictures/terminal/bamboo.png)<br><br>
+**Candy Cane**<br>
+![](/assets/pictures/text-editor/candy-cane.png)<br><br>
+![](/assets/pictures/terminal/candy-cane.png)<br><br>
 **Cryogenic**<br>
-A secret laboratory on a frozen world...<br><br>
+A secret laboratory on a frozen world.<br><br>
 ![](/assets/pictures/text-editor/cryogenic.png)<br><br>
 ![](/assets/pictures/terminal/cryogenic.png)<br><br>
 **Cyberpunk**<br>
@@ -78,6 +85,10 @@ This theme is based on the Gruber Darker color theme for Emacs 24 made by Rexim 
 **Ice Shelf**<br>
 ![](/assets/pictures/text-editor/ice-shelf.png)<br><br>
 ![](/assets/pictures/terminal/ice-shelf.png)<br><br>
+**Joker**<br>
+A dark theme arround the Joker from Batman.<br><br>
+![](/assets/pictures/text-editor/joker.png)<br><br>
+![](/assets/pictures/terminal/joker.png)<br><br>
 **Metropolis**<br>
 The picture I had in mind while making this was one of the modern mega cities at a autmn night. A dimmed slightly cold but colorful atmosphere.<br><br>
 ![](/assets/pictures/text-editor/metropolis.png)<br><br>
@@ -118,9 +129,13 @@ My first theme I made. There was a rework since then, yet the base concept is st
 *Dark*<br>
 ![](/assets/pictures/text-editor/sakura-haruno-dark.png)<br><br>
 ![](/assets/pictures/terminal/sakura-haruno-dark.png)<br><br>
-Light*<br>
+*Light*<br>
 ![](/assets/pictures/text-editor/sakura-haruno-light.png)<br><br>
 ![](/assets/pictures/terminal/sakura-haruno-light.png)<br><br>
+**Snake**<br>
+Another theme with a medium light grey background, yet more colorful and a focus on green. If you like a toxic look, but need something clean for work.<br><br>
+![](/assets/pictures/text-editor/snake.png)<br><br>
+![](/assets/pictures/terminal/snake.png)<br><br>
 **Solarpunk**<br>
 The last member of the punk genere I wanted to add.<br>
 One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not gnome.
@@ -140,5 +155,13 @@ Combined with some retro colors (I had the 80's in mind) you get a "synthetic" l
 ...because "vintage" themes often feel retro, but not "vintage".<br><br>
 ![](/assets/pictures/text-editor/vintage.png)<br><br>
 ![](/assets/pictures/terminal/vintage.png)<br><br>
+**Zen**<br>
+A medium light theme with a slightly burned color scheme and foreground.<br><br>
+![](/assets/pictures/text-editor/zen.png)<br><br>
+![](/assets/pictures/terminal/zen.png)<br><br>
+*Red Version*<br>
+While making this I thought a red would fit nicely as well having the Sith (Star Wars) in mind.<br><br>
+![](/assets/pictures/text-editor/zen-red.png)<br><br>
+![](/assets/pictures/terminal/zen-red.png)<br><br>
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
