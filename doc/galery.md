@@ -120,6 +120,10 @@ Low saturated ocean green background, combined with aqua blue foreground and a c
 The background should resemble the sky during dawn. This was combined with colors in pastel.<br><br>
 ![](/assets/pictures/text-editor/pastel-sky.png)<br><br>
 ![](/assets/pictures/terminal/pastel-sky.png)<br><br>
+**Rage**<br>
+A medium dark theme focussing on red and violet tones.<br><br>
+![](/assets/pictures/text-editor/rage.png)<br><br>
+![](/assets/pictures/terminal/rage.png)<br><br>
 **Retro**<br>
 A Dark theme following a traditional approach for terminal color schemes.<br><br>
 ![](/assets/pictures/text-editor/retro.png)<br><br>
@@ -133,7 +137,7 @@ My first theme I made. There was a rework since then, yet the base concept is st
 ![](/assets/pictures/text-editor/sakura-haruno-light.png)<br><br>
 ![](/assets/pictures/terminal/sakura-haruno-light.png)<br><br>
 **Snake**<br>
-Another theme with a medium light grey background, yet more colorful and a focus on green. If you like a toxic look, but need something clean for work.<br><br>
+Another theme with a medium dark grey background, yet more colorful and a focus on green. If you like a toxic look, but need something clean for work.<br><br>
 ![](/assets/pictures/text-editor/snake.png)<br><br>
 ![](/assets/pictures/terminal/snake.png)<br><br>
 **Solarpunk**<br>
@@ -156,11 +160,8 @@ Combined with some retro colors (I had the 80's in mind) you get a "synthetic" l
 ![](/assets/pictures/text-editor/vintage.png)<br><br>
 ![](/assets/pictures/terminal/vintage.png)<br><br>
 **Zen**<br>
-A medium light theme with a slightly burned color scheme and foreground.<br><br>
+A medium dark theme with a slightly burned look.<br><br>
 ![](/assets/pictures/text-editor/zen.png)<br><br>
 ![](/assets/pictures/terminal/zen.png)<br><br>
-*Red Version*<br>
-![](/assets/pictures/text-editor/zen-red.png)<br><br>
-![](/assets/pictures/terminal/zen-red.png)<br><br>
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
