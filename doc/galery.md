@@ -121,7 +121,8 @@ The background should resemble the sky during dawn. This was combined with color
 ![](/assets/pictures/text-editor/pastel-sky.png)<br><br>
 ![](/assets/pictures/terminal/pastel-sky.png)<br><br>
 **Rage**<br>
-A medium dark theme focussing on red and violet tones.<br><br>
+My Zen and Rage themes are related to each other and the result of the same conzept. A slightly muted quality in their colors.<br>
+For Rage it's the "muted" emotion you are holding back.<br><br>
 ![](/assets/pictures/text-editor/rage.png)<br><br>
 ![](/assets/pictures/terminal/rage.png)<br><br>
 **Retro**<br>
@@ -160,7 +161,8 @@ Combined with some retro colors (I had the 80's in mind) you get a "synthetic" l
 ![](/assets/pictures/text-editor/vintage.png)<br><br>
 ![](/assets/pictures/terminal/vintage.png)<br><br>
 **Zen**<br>
-A medium dark theme with a slightly burned look.<br><br>
+My Zen and Rage themes are related to each other and the result of the same conzept. A slightly muted quality in their colors.<br>
+For Zen it's the "quietness" of a calm mind.<br><br>
 ![](/assets/pictures/text-editor/zen.png)<br><br>
 ![](/assets/pictures/terminal/zen.png)<br><br>
 
