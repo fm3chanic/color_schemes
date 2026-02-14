@@ -47,6 +47,12 @@ The feeling of wandering through old ruins in the jungle of mexico.<br><br>
 A light theme made arround the color bamboo green. For fresh thoughts and peace of mind.<br><br>
 ![](/assets/pictures/text-editor/bamboo.png)<br><br>
 ![](/assets/pictures/terminal/bamboo.png)<br><br>
+**Black and White**<br>
+A set of two themes (other one is *Team Plasma*) I made with Pokemon Black / White version in mind.<br>
+Here we have the opposite colors of the legendary pokemons from these games combined with a colorful color scheme.<br>
+Even if you are no pokemon fan, this one might be sth. for you if you are looking for a clean black and white theme.<br><br>
+![](/assets/pictures/text-editor/black-and-white.png)<br><br>
+![](/assets/pictures/terminal/black-and-white.png)<br><br>
 **Candy Cane**<br>
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
@@ -78,10 +84,6 @@ A dark underwater theme. I wanted to make it look like the glowing creatures in 
 The goal was to capture the grim atmossphere of Dieselpunk in a color scheme.<br><br>
 ![](/assets/pictures/text-editor/dieselpunk.png)<br><br>
 ![](/assets/pictures/terminal/dieselpunk.png)<br><br>
-**Gruber Darker**<br>
-This theme is based on the Gruber Darker color theme for Emacs 24 made by Rexim aka. Tsoding.<br><br>
-![](/assets/pictures/text-editor/gruber-darker.png)<br><br>
-![](/assets/pictures/terminal/gruber-darker.png)<br><br>
 **Ice Shelf**<br>
 ![](/assets/pictures/text-editor/ice-shelf.png)<br><br>
 ![](/assets/pictures/terminal/ice-shelf.png)<br><br>
@@ -156,6 +158,12 @@ This theme should mimic the look of an old inverted digital display.<br>
 Combined with some retro colors (I had the 80's in mind) you get a "synthetic" look.<br><br>
 ![](/assets/pictures/text-editor/synthetic.png)<br><br>
 ![](/assets/pictures/terminal/synthetic.png)<br><br>
+**Team Plasma**<br>
+A set of two themes (other one is *Black-and-White*) I made with Pokemon Black / White version in mind.<br>
+This one has a focus on blue and blue gray, similar to team plasmas uniform.<br>
+The color scheme tries to represent the range of pokemon they where using and their colors as well as the iconic blue.<br><br>
+![](/assets/pictures/text-editor/team-plasma.png)<br><br>
+![](/assets/pictures/terminal/team-plasma.png)<br><br>
 **Vintage**<br>
 ...because "vintage" themes often feel retro, but not "vintage".<br><br>
 ![](/assets/pictures/text-editor/vintage.png)<br><br>

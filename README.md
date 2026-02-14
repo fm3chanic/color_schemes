@@ -26,5 +26,4 @@ The python script (_\[...\]\_load_colors.py_) reads the colors from a html file 
 If you want to work on colors it makes the most sense to change the colors in the html file in this repository so the changes can be applied to all applications using the theme.<br>
 If you want to work on the mapping of the colors it might make sense to change the base template in the application repository, so changes can be applied to all themes of an application.<br>
 
-The only exception of this is the gruber-darker theme, which does not follow this standard for text editors only for terminals.<br><br>
 Neverless, **I also welcome contribution not following this standard** in the application repositories. The standard was made to keep it maintainable for one person, not to block community ideas.<br>
