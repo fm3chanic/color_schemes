@@ -56,6 +56,9 @@ Even if you are no pokemon fan, this one might be sth. for you if you are lookin
 **Candy Cane**<br>
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
+**Condor**<br>
+![](/assets/pictures/text-editor/condor.png)<br><br>
+![](/assets/pictures/terminal/condor.png)<br><br>
 **Cryogenic**<br>
 A secret laboratory on a frozen world.<br><br>
 ![](/assets/pictures/text-editor/cryogenic.png)<br><br>
