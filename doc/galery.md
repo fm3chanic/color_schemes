@@ -23,6 +23,12 @@ A reference to the main tech faction of the Warhammer 40k universe. The colors s
 *Light*<br>
 ![](/assets/pictures/text-editor/adeptus-mechanicus-light.png)<br><br>
 ![](/assets/pictures/terminal/adeptus-mechanicus-light.png)<br><br>
+*Steel*<br>
+![](/assets/pictures/text-editor/adeptus-mechanicus-steel.png)<br><br>
+![](/assets/pictures/terminal/adeptus-mechanicus-steel.png)<br><br>
+*Bone*<br>
+![](/assets/pictures/text-editor/adeptus-mechanicus-bone.png)<br><br>
+![](/assets/pictures/terminal/adeptus-mechanicus-bone.png)<br><br>
 **Adeptus Ministorum (Warhammer 40k)**<br>
 A reference to the church of the imperium of men in the Warhammer 40k universe.<br><br>
 *Dark*<br>
