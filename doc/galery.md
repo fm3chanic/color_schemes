@@ -140,6 +140,10 @@ For Rage it's the "muted" emotion you are holding back.<br><br>
 A Dark theme following a traditional approach for terminal color schemes.<br><br>
 ![](/assets/pictures/text-editor/retro.png)<br><br>
 ![](/assets/pictures/terminal/retro.png)<br><br>
+**Rose**<br>
+A very dark black background with rose-red decorations and saturated colors for a more classical yet refined look.<br><br>
+![](/assets/pictures/text-editor/rose.png)<br><br>
+![](/assets/pictures/terminal/rose.png)<br><br>
 **Sakura Haruno (Naruto)**<br>
 My first theme I made. There was a rework since then, yet the base concept is still the same.<br><br>
 *Dark*<br>
@@ -148,10 +152,6 @@ My first theme I made. There was a rework since then, yet the base concept is st
 *Light*<br>
 ![](/assets/pictures/text-editor/sakura-haruno-light.png)<br><br>
 ![](/assets/pictures/terminal/sakura-haruno-light.png)<br><br>
-**Snake**<br>
-Another theme with a medium dark grey background, yet more colorful and a focus on green. If you like a toxic look, but need something clean for work.<br><br>
-![](/assets/pictures/text-editor/snake.png)<br><br>
-![](/assets/pictures/terminal/snake.png)<br><br>
 **Solarpunk**<br>
 The last member of the punk genere I wanted to add.<br>
 One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not gnome.
@@ -177,6 +177,10 @@ The color scheme tries to represent the range of pokemon they where using and th
 ...because "vintage" themes often feel retro, but not "vintage".<br><br>
 ![](/assets/pictures/text-editor/vintage.png)<br><br>
 ![](/assets/pictures/terminal/vintage.png)<br><br>
+**Viper**<br>
+Successor of my snake theme and related to acid cloud. A clean black background with toxic greens and a classical set of colors.<br><br>
+![](/assets/pictures/text-editor/viper.png)<br><br>
+![](/assets/pictures/terminal/viper.png)<br><br>
 **Zen**<br>
 My Zen and Rage themes are related to each other and the result of the same conzept. A strongly muted quality in their colors.<br>
 For Zen it's the "quietness" of a calm mind.<br><br>
