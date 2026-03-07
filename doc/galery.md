@@ -37,6 +37,10 @@ A reference to the church of the imperium of men in the Warhammer 40k universe.<
 *Light*<br>
 ![](/assets/pictures/text-editor/adeptus-ministorum-light.png)<br><br>
 ![](/assets/pictures/terminal/adeptus-ministorum-light.png)<br><br>
+**Aquatic**<br>
+Medium light theme based arround a deep aqua tone combined with aquatic colors like salmon, sand and seafoam.<br><br>
+![](/assets/pictures/text-editor/aquatic.png)<br><br>
+![](/assets/pictures/terminal/aquatic.png)<br><br>
 **Atompunk**<br>
 The result of trying to bring the Atompunk color scheme to a text editor.<br><br>
 ![](/assets/pictures/text-editor/atompunk.png)<br><br>
@@ -62,6 +66,10 @@ Even if you are no pokemon fan, this one might be sth. for you if you are lookin
 **Candy Cane**<br>
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
+**Cloud Forest**<br>
+Camogreen background with a cloudy misty foreground.<br><br>
+![](/assets/pictures/text-editor/cloud-forest.png)<br><br>
+![](/assets/pictures/terminal/cloud-forest.png)<br><br>
 **Condor**<br>
 ![](/assets/pictures/text-editor/condor.png)<br><br>
 ![](/assets/pictures/terminal/condor.png)<br><br>
@@ -115,6 +123,10 @@ A classical dark theme with only natural colors. All colors have been extracted 
 **Nautical**<br>
 ![](/assets/pictures/text-editor/nautical.png)<br><br>
 ![](/assets/pictures/terminal/nautical.png)<br><br>
+**Navy**<br>
+Medium light battleship grey theme, combined with muted colors partially technical partially aquatic based.<br><br>
+![](/assets/pictures/text-editor/navy.png)<br><br>
+![](/assets/pictures/terminal/navy.png)<br><br>
 **Neo-Industrial**<br>
 This theme is a child of my cryogenic theme. Combining it's features with a brown / dirty-white foreground.<br><br>
 ![](/assets/pictures/text-editor/neo-industrial.png)<br><br>
@@ -131,6 +143,14 @@ Low saturated ocean green background, combined with aqua blue foreground and a c
 The background should resemble the sky during dawn. This was combined with colors in pastel.<br><br>
 ![](/assets/pictures/text-editor/pastel-sky.png)<br><br>
 ![](/assets/pictures/terminal/pastel-sky.png)<br><br>
+**Pilgrim**<br>
+Simple calm colors combined with some of my favorite colors as color scheme like orchid, rose, olive, teal and wisteria. There is a brownish version and a greyish version.<br><br>
+*Brown*
+![](/assets/pictures/text-editor/pilgrim-brown.png)<br><br>
+![](/assets/pictures/terminal/pilgrim-brown.png)<br><br>
+*Grey*
+![](/assets/pictures/text-editor/pilgrim-grey.png)<br><br>
+![](/assets/pictures/terminal/ilgrim-grey.png)<br><br>
 **Rage**<br>
 My Zen and Rage themes are related to each other and the result of the same conzept. A strongly muted quality in their colors.<br>
 For Rage it's the "muted" emotion you are holding back.<br><br>
@@ -140,10 +160,6 @@ For Rage it's the "muted" emotion you are holding back.<br><br>
 A Dark theme following a traditional approach for terminal color schemes.<br><br>
 ![](/assets/pictures/text-editor/retro.png)<br><br>
 ![](/assets/pictures/terminal/retro.png)<br><br>
-**Rose**<br>
-A very dark black background with rose-red decorations and saturated colors for a more classical yet refined look.<br><br>
-![](/assets/pictures/text-editor/rose.png)<br><br>
-![](/assets/pictures/terminal/rose.png)<br><br>
 **Sakura Haruno (Naruto)**<br>
 My first theme I made. There was a rework since then, yet the base concept is still the same.<br><br>
 *Dark*<br>
@@ -178,7 +194,7 @@ The color scheme tries to represent the range of pokemon they where using and th
 ![](/assets/pictures/text-editor/vintage.png)<br><br>
 ![](/assets/pictures/terminal/vintage.png)<br><br>
 **Viper**<br>
-Successor of my snake theme and related to acid cloud. A clean black background with toxic greens and a classical set of colors.<br><br>
+Successor of my snake theme. A clean cold-black background with toxic greens and a natural set of colors focussing on greens or plants.<br><br>
 ![](/assets/pictures/text-editor/viper.png)<br><br>
 ![](/assets/pictures/terminal/viper.png)<br><br>
 **Zen**<br>
