@@ -139,6 +139,9 @@ Halloween in a comic book.<br><br>
 Low saturated ocean green background, combined with aqua blue foreground and a colorscheme for syntax highlighting which is based<br>on sea foam, corals, sand and seaweed.<br><br>
 ![](/assets/pictures/text-editor/oceanic.png)<br><br>
 ![](/assets/pictures/terminal/oceanic.png)<br><br>
+**Parchment**<br>
+![](/assets/pictures/text-editor/parchment.png)<br><br>
+![](/assets/pictures/terminal/parchment.png)<br><br>
 **Pastel Sky**<br>
 The background should resemble the sky during dawn. This was combined with colors in pastel.<br><br>
 ![](/assets/pictures/text-editor/pastel-sky.png)<br><br>
