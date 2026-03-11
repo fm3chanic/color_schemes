@@ -6,20 +6,18 @@ Please check the galery of the [project repository](https://github.com/fm3chanic
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
 
-
 **Twenty Thousand Leagues Under the Seas**<br>
 This theme was inspired by this literary masterpiece by Jules Verne. My goal was creating the feel of being underwater yet with a touch of Steampunk style in it.<br><br>
 ![](/assets/pictures/text-editor/20k-leagues-under-seas.png)<br><br>
 ![](/assets/pictures/terminal/20k-leagues-under-seas.png)<br><br>
-**Acid Cloud**<br>
-A venomous look.<br><br>
-![](/assets/pictures/text-editor/acid-cloud.png)<br><br>
-![](/assets/pictures/terminal/acid-cloud.png)<br><br>
 **Adeptus Mechanicus (Warhammer 40k)**<br>
 A reference to the main tech faction of the Warhammer 40k universe. The colors should resemble their combination of machines and sacrality.<br><br>
 *Dark*<br>
 ![](/assets/pictures/text-editor/adeptus-mechanicus-dark.png)<br><br>
 ![](/assets/pictures/terminal/adeptus-mechanicus-dark.png)<br><br>
+*Darker*<br>
+![](/assets/pictures/text-editor/adeptus-mechanicus-darker.png)<br><br>
+![](/assets/pictures/terminal/adeptus-mechanicus-darker.png)<br><br>
 *Light*<br>
 ![](/assets/pictures/text-editor/adeptus-mechanicus-light.png)<br><br>
 ![](/assets/pictures/terminal/adeptus-mechanicus-light.png)<br><br>
@@ -41,6 +39,14 @@ A reference to the church of the imperium of men in the Warhammer 40k universe.<
 Medium light theme based arround a deep aqua tone combined with aquatic colors like salmon, sand and seafoam.<br><br>
 ![](/assets/pictures/text-editor/aquatic.png)<br><br>
 ![](/assets/pictures/terminal/aquatic.png)<br><br>
+**Astra Militarum**<br>
+A reference to the "main" military of the imperium of men in the Warhammer 40k universe.<br><br>
+*Soldier*<br>
+![](/assets/pictures/text-editor/astra-militarum-soldier.png)<br><br>
+![](/assets/pictures/terminal/astra-militarum-soldier.png)<br><br>
+*Officer*<br>
+![](/assets/pictures/text-editor/astra-militarum-officer.png)<br><br>
+![](/assets/pictures/terminal/astra-militarum-officer.png)<br><br>
 **Atompunk**<br>
 The result of trying to bring the Atompunk color scheme to a text editor.<br><br>
 ![](/assets/pictures/text-editor/atompunk.png)<br><br>
@@ -80,19 +86,25 @@ A secret laboratory on a frozen world.<br><br>
 **Cyberpunk**<br>
 ![](/assets/pictures/text-editor/cyberpunk.png)<br><br>
 ![](/assets/pictures/terminal/cyberpunk.png)<br><br>
-**Cyrodiil**<br>
-Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br><br>
-![](/assets/pictures/text-editor/cyrodiil.png)<br><br>
-![](/assets/pictures/terminal/cyrodiil.png)<br><br>
 **Cyberstorm**<br>
 Main colors are taken from my cyberpunk theme, the rest comes from my nightmare, metropolis and cryogenic.<br>
 The simularity to tokyo night storm is on purpose, as I wanted make something similar combinging cyberpunk and urban colors. I would say core difference is, that I use less saturated colors in general and adding my own notes with working in the 9 color scale for the main colors.<br><br>
 ![](/assets/pictures/text-editor/cyberstorm.png)<br><br>
 ![](/assets/pictures/terminal/cyberstorm.png)<br><br>
+**Cyrodiil**<br>
+Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br><br>
+![](/assets/pictures/text-editor/cyrodiil.png)<br><br>
+![](/assets/pictures/terminal/cyrodiil.png)<br><br>
 **Dark Space**<br>
 My goal was the resemble feeling of space in sci-fi.<br><br>
 ![](/assets/pictures/text-editor/dark-space.png)<br><br>
 ![](/assets/pictures/terminal/dark-space.png)<br><br>
+**Dark Woods**<br>
+![](/assets/pictures/text-editor/dark-woods.png)<br><br>
+![](/assets/pictures/terminal/dark-woods.png)<br><br>
+**Dawn**<br>
+![](/assets/pictures/text-editor/dawn.png)<br><br>
+![](/assets/pictures/terminal/dawn.png)<br><br>
 **Deep Sea**<br>
 A dark underwater theme. I wanted to make it look like the glowing creatures in dark depths.<br><br>
 ![](/assets/pictures/text-editor/deep-sea.png)<br><br>
@@ -104,6 +116,10 @@ The goal was to capture the grim atmossphere of Dieselpunk in a color scheme.<br
 **Ice Shelf**<br>
 ![](/assets/pictures/text-editor/ice-shelf.png)<br><br>
 ![](/assets/pictures/terminal/ice-shelf.png)<br><br>
+**Inquisitorius**<br>
+Another Warhammer 40k theme.<br><br>
+![](/assets/pictures/text-editor/inquisitorius.png)<br><br>
+![](/assets/pictures/terminal/inquisitorius.png)<br><br>
 **Joker**<br>
 A dark theme arround the Joker from Batman.<br><br>
 ![](/assets/pictures/text-editor/joker.png)<br><br>
@@ -112,6 +128,9 @@ A dark theme arround the Joker from Batman.<br><br>
 The picture I had in mind while making this was one of the modern mega cities at a autmn night. A dimmed slightly cold but colorful atmosphere.<br><br>
 ![](/assets/pictures/text-editor/metropolis.png)<br><br>
 ![](/assets/pictures/terminal/metropolis.png)<br><br>
+**Moss**<br>
+![](/assets/pictures/text-editor/moss.png)<br><br>
+![](/assets/pictures/terminal/moss.png)<br><br>
 **Mother Nature**<br>
 A classical dark theme with only natural colors. All colors have been extracted from natural pictures like trees, lakes, stones etc.<br><br>
 *Dark*<br>
@@ -153,7 +172,7 @@ Simple calm colors combined with some of my favorite colors as color scheme like
 ![](/assets/pictures/terminal/pilgrim-brown.png)<br><br>
 *Grey*
 ![](/assets/pictures/text-editor/pilgrim-grey.png)<br><br>
-![](/assets/pictures/terminal/ilgrim-grey.png)<br><br>
+![](/assets/pictures/terminal/pilgrim-grey.png)<br><br>
 **Rage**<br>
 My Zen and Rage themes are related to each other and the result of the same conzept. A strongly muted quality in their colors.<br>
 For Rage it's the "muted" emotion you are holding back.<br><br>
@@ -186,6 +205,9 @@ This theme should mimic the look of an old inverted digital display.<br>
 Combined with some retro colors (I had the 80's in mind) you get a "synthetic" look.<br><br>
 ![](/assets/pictures/text-editor/synthetic.png)<br><br>
 ![](/assets/pictures/terminal/synthetic.png)<br><br>
+**Toxic**<br>
+![](/assets/pictures/text-editor/toxic.png)<br><br>
+![](/assets/pictures/terminal/toxic.png)<br><br>
 **Team Plasma**<br>
 A set of two themes (other one is *Black-and-White*) I made with Pokemon Black / White version in mind.<br>
 This one has a focus on blue and blue gray, similar to team plasmas uniform.<br>
