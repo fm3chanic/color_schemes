@@ -51,10 +51,6 @@ A reference to the "main" military of the imperium of men in the Warhammer 40k u
 The result of trying to bring the Atompunk color scheme to a text editor.<br><br>
 ![](/assets/pictures/text-editor/atompunk.png)<br><br>
 ![](/assets/pictures/terminal/atompunk.png)<br><br>
-**Aurora Borealis**<br>
-Inspired by the beauty of the polar lights.<br><br>
-![](/assets/pictures/text-editor/aurora-borealis.png)<br><br>
-![](/assets/pictures/terminal/aurora-borealis.png)<br><br>
 **Aztec Jungle**<br>
 The feeling of wandering through old ruins in the jungle of mexico.<br><br>
 ![](/assets/pictures/text-editor/aztec-jungle.png)<br><br>
@@ -73,7 +69,7 @@ Even if you are no pokemon fan, this one might be sth. for you if you are lookin
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
 **Cloud Forest**<br>
-Camogreen background with a cloudy misty foreground.<br><br>
+Forest green background with a cloudy blue-grey foreground.<br><br>
 ![](/assets/pictures/text-editor/cloud-forest.png)<br><br>
 ![](/assets/pictures/terminal/cloud-forest.png)<br><br>
 **Condor**<br>
@@ -161,10 +157,6 @@ Low saturated ocean green background, combined with aqua blue foreground and a c
 **Parchment**<br>
 ![](/assets/pictures/text-editor/parchment.png)<br><br>
 ![](/assets/pictures/terminal/parchment.png)<br><br>
-**Pastel Sky**<br>
-The background should resemble the sky during dawn. This was combined with colors in pastel.<br><br>
-![](/assets/pictures/text-editor/pastel-sky.png)<br><br>
-![](/assets/pictures/terminal/pastel-sky.png)<br><br>
 **Pilgrim**<br>
 Simple calm colors combined with some of my favorite colors as color scheme like orchid, rose, olive, teal and wisteria. There is a brownish version and a greyish version.<br><br>
 *Brown*
@@ -178,10 +170,6 @@ My Zen and Rage themes are related to each other and the result of the same conz
 For Rage it's the "muted" emotion you are holding back.<br><br>
 ![](/assets/pictures/text-editor/rage.png)<br><br>
 ![](/assets/pictures/terminal/rage.png)<br><br>
-**Retro**<br>
-A Dark theme following a traditional approach for terminal color schemes.<br><br>
-![](/assets/pictures/text-editor/retro.png)<br><br>
-![](/assets/pictures/terminal/retro.png)<br><br>
 **Sakura Haruno (Naruto)**<br>
 My first theme I made. There was a rework since then, yet the base concept is still the same.<br><br>
 *Dark*<br>
