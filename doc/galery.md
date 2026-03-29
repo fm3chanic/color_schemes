@@ -68,6 +68,12 @@ Even if you are no pokemon fan, this one might be sth. for you if you are lookin
 **Candy Cane**<br>
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
+**Chizra - Temple of Nali Watergod**<br>
+Theme based on the colors from this iconic level from Unreal (PC edition; release 1998; Unreal Gold).<br>
+A never ending labyrinth of chambers and slightly green shimmering water. A place of serenity and calmness.<br>
+That's what I tried to replicate with the sea-green foreground and the stone background.<br><br>
+![](/assets/pictures/text-editor/chizra.png)<br><br>
+![](/assets/pictures/terminal/chizra.png)<br><br>
 **Cloud Forest**<br>
 Forest green background with a cloudy blue-grey foreground.<br><br>
 ![](/assets/pictures/text-editor/cloud-forest.png)<br><br>
@@ -120,6 +126,9 @@ Another Warhammer 40k theme.<br><br>
 A dark theme arround the Joker from Batman.<br><br>
 ![](/assets/pictures/text-editor/joker.png)<br><br>
 ![](/assets/pictures/terminal/joker.png)<br><br>
+**Medieval**<br>
+![](/assets/pictures/text-editor/medieval.png)<br><br>
+![](/assets/pictures/terminal/medieval.png)<br><br>
 **Metropolis**<br>
 The picture I had in mind while making this was one of the modern mega cities at a autmn night. A dimmed slightly cold but colorful atmosphere.<br><br>
 ![](/assets/pictures/text-editor/metropolis.png)<br><br>
