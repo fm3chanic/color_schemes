@@ -2,9 +2,9 @@
 
 This galery contains all my wh40k based color themes. All of these color themes were built during my freetime and served as an outlet for my creativity.<br>
 
-**Other Galeries:**
-***[Main Galery](/doc/galery.md)***
-***[Vtuber Project](https://github.com/fm3chanic/vtuber_project/doc/galery.md)***
+**Other Galeries:**<br>
+***[Main Galery](/doc/galery.md)***<br>
+***[Vtuber Project](https://github.com/fm3chanic/vtuber_project)***
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
 

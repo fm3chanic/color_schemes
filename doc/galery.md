@@ -2,9 +2,9 @@
 
 This galery contains all my color themes which are not related to my vtuber project. All of these color themes were built during my freetime and served as an outlet for my creativity.<br>
 
-**Other Galeries:**
-***[Warhammer 40k based themes](/doc/galery_wh40k.md)***
-***[Vtuber Project](https://github.com/fm3chanic/vtuber_project/doc/galery.md)***
+**Other Galeries:**<br>
+***[Warhammer 40k based themes](/doc/galery_wh40k.md)***<br>
+***[Vtuber Project](https://github.com/fm3chanic/vtuber_project)***
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
 
