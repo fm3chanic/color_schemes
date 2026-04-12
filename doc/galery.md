@@ -139,7 +139,7 @@ A classical dark theme with only natural colors. All colors have been extracted 
 ![](/assets/pictures/terminal/nautical.png)<br><br>
 
 **Navy**<br>
-Medium light battleship grey theme, combined with muted colors partially technical partially aquatic based.<br><br>
+Gun metal grey theme, combined with muted colors partially technical partially aquatic based.<br><br>
 ![](/assets/pictures/text-editor/navy.png)<br><br>
 ![](/assets/pictures/terminal/navy.png)<br><br>
 
@@ -167,6 +167,12 @@ My Zen and Rage themes are related to each other and the result of the same conz
 For Rage it's the "muted" emotion you are holding back.<br><br>
 ![](/assets/pictures/text-editor/rage.png)<br><br>
 ![](/assets/pictures/terminal/rage.png)<br><br>
+
+**Rust**<br>
+Rust brown and orange background and highlighting combined with a dirty white foreground.
+A scrap yard was the base concept. In my mind I had one of this dystopian waste lands scorched by sun, hence a warm set of colors.<br><br>
+![](/assets/pictures/text-editor/rust.png)<br><br>
+![](/assets/pictures/terminal/rust.png)<br><br>
 
 **Sakura Haruno (Naruto)**<br>
 My first theme I made. There was a rework since then, yet the base concept is still the same.<br><br>

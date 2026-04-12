@@ -19,6 +19,11 @@ You fill in the colors in the color_scheme_template.html and name the theme file
 The color_adjustment.py contains some base values (saturation & brightness, based on hls) for each of the different color types, which work for light or dark themes, so if you just want
 your colors in a working theme, run this (it targets every html in a directory, changes the values and wants to write it in a subdirectory "reworked").<br>
 
+The last tool I added to this repo is a simple CLI color picker allowing you to pick and alter colors (with HEX code as input or just parameter) based on HLS color system. You can get a HTML test output by setting a flag. All values are based on flags.
+You'll directly see the processed parameters as percentage values and get a HEX code output. A minimal error handling was added here and calling the tool with out parameters will print a short manual. This was mainly built to meet my needs in a color picker.
+Might be very helpful for people that basically live in the HLS color system and prefer working in a terminal.<br>
+
+
 ### Contribution
 
 The themes are based on the mapped templates in the **/tools** directory of the application repos.<br>
