@@ -80,14 +80,25 @@ Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br><br>
 ![](/assets/pictures/text-editor/cyrodiil.png)<br><br>
 ![](/assets/pictures/terminal/cyrodiil.png)<br><br>
 
-**Dark Space**<br>
-My goal was the resemble feeling of space in sci-fi.<br><br>
-![](/assets/pictures/text-editor/dark-space.png)<br><br>
-![](/assets/pictures/terminal/dark-space.png)<br><br>
+**Dark Earth**<br>
+![](/assets/pictures/text-editor/dark_earth.png)<br><br>
+![](/assets/pictures/terminal/dark_earth.png)<br><br>
 
-**Dark Woods**<br>
-![](/assets/pictures/text-editor/dark-woods.png)<br><br>
-![](/assets/pictures/terminal/dark-woods.png)<br><br>
+**Dark Forest**<br>
+![](/assets/pictures/text-editor/dark_forest.png)<br><br>
+![](/assets/pictures/terminal/dark_forest.png)<br><br>
+
+**Dark Sea**<br>
+![](/assets/pictures/text-editor/dark_sea.png)<br><br>
+![](/assets/pictures/terminal/dark_sea.png)<br><br>
+
+**Dark Sky**<br>
+![](/assets/pictures/text-editor/dark_sky.png)<br><br>
+![](/assets/pictures/terminal/dark_sky.png)<br><br>
+
+**Dark Space**<br>
+![](/assets/pictures/text-editor/dark_space.png)<br><br>
+![](/assets/pictures/terminal/dark_space.png)<br><br>
 
 **Dawn**<br>
 ![](/assets/pictures/text-editor/dawn.png)<br><br>
