@@ -143,7 +143,7 @@ def main():
     if len(parameters.keys()) == 0:
         print('--- Usage: ---')
         print('python -m cpicker <hexcode> <value_name> <value>')
-        print('-> parsed flags are --h, --l, --s and a numeric value behind \n ->as well as --v which controls whether a html output is created')
+        print('-> parsed flags are --h, --l, --s and a numeric value behind \n -> as well as --v which controls whether a html output is created')
         print('-> saturation and lightness are percent values; hue uses the 255 range')
         print('-> at least one parameter is required (e.g. python -m cpicker --v --h 45)')
         return 0 # if this is triggered input is incorrect therefore the procedure is ended
