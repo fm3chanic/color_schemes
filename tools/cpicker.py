@@ -40,7 +40,7 @@ def rgb_to_hex(r, g, b):
 # color picker
 def set_color(parameters):
     changes = []
-    
+
     hex_code = parameters.get('hex', '#000000')
 
     rgb_code = hex_to_rgb(hex_code)
@@ -59,10 +59,17 @@ def set_color(parameters):
     new_rgb_code.append(int(new_r * 255))
     new_rgb_code.append(int(new_g * 255))
     new_rgb_code.append(int(new_b * 255))
-    
+
     hex_code = rgb_to_hex(new_rgb_code[0], new_rgb_code[1], new_rgb_code[2])
-    
-    return hex_code
+
+    # this was added so we also can use the tool to analyse given hexcodes
+    # a missing function which now is available as well
+    new_hls = {}
+    new_hls['hue'] = round(new_h * 360,0)
+    new_hls['lgt'] = round(new_l * 100,0)
+    new_hls['sat'] = round(new_s * 100,0)
+
+    return new_hls, hex_code
 
 # creates output file in current directory
 def output(hex_code):
@@ -116,10 +123,10 @@ def parser():
         if arg[0] == '#' and len(arg) == 7:
             parameters['hex'] = str(arg)
         elif arg == '--h':
-            # for hue we are working on the 255 range
-            # if you are more familar with 360° just change the value
+            # for hue we are working on the 360°
+            # if you are more familar with 255 range just change the value
             # to your liking ^^
-            parameters['hue'] = round(float(args[i+1]) / 255 * 100 , 2)
+            parameters['hue'] = round(float(args[i+1]) / 360 * 100 , 2)
             i += 1
         elif arg == '--l':
             parameters['lgt'] = float(args[i+1])
@@ -143,17 +150,20 @@ def main():
     if len(parameters.keys()) == 0:
         print('--- Usage: ---')
         print('python -m cpicker <hexcode> <value_name> <value>')
-        print('-> parsed flags are --h, --l, --s and a numeric value behind \n -> as well as --v which controls whether a html output is created')
-        print('-> saturation and lightness are percent values; hue uses the 255 range')
+        print('-> parsed flags are --h, --l, --s and a numeric value behind') 
+        print('-> as well as --v which controls whether a html output is created')
+        print('-> saturation and lightness are percent values; hue uses the 360°')
         print('-> at least one parameter is required (e.g. python -m cpicker --v --h 45)')
         return 0 # if this is triggered input is incorrect therefore the procedure is ended
     
     # processes input parameters
-    hex_code = set_color(parameters)
+    new_hls, hex_code = set_color(parameters)
     
     # prints new hexcode
     print('new hexcode:')
     print(hex_code)
+    print('new hls:')
+    print(new_hls)
     print('based on:')
     print(parameters)
     
