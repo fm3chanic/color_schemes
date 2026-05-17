@@ -229,6 +229,10 @@ I a slightly retro looking terminal theme, but also clean and easy on the eye. F
 Warm black with see-green foreground and the color scheme is copied from my rage theme. I like the result a lot and think it's worth sharing.<br><br>
 ![](/assets/pictures/text-editor/terminal.png)<br><br>
 ![](/assets/pictures/terminal/terminal.png)<br><br>
+*Version 2*<br>
+different green tone in highlighting and foreground<br>
+![](/assets/pictures/text-editor/terminalv2.png)<br><br>
+![](/assets/pictures/terminal/terminalv2.png)<br><br>
 
 **Vintage**<br>
 ...because "vintage" themes often feel retro, but not "vintage".<br><br>
