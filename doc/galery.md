@@ -65,6 +65,11 @@ A secret laboratory on a frozen world.<br><br>
 ![](/assets/pictures/text-editor/cryogenic.png)<br><br>
 ![](/assets/pictures/terminal/cryogenic.png)<br><br>
 
+**Crypt**<br>
+Crypt from a comic book. Faded violet with a zombie green.<br><br>
+![](/assets/pictures/text-editor/crypt.png)<br><br>
+![](/assets/pictures/terminal/crypt.png)<br><br>
+
 **Cyberpunk**<br>
 ![](/assets/pictures/text-editor/cyberpunk.png)<br><br>
 ![](/assets/pictures/terminal/cyberpunk.png)<br><br>
@@ -164,6 +169,11 @@ Halloween in a comic book.<br><br>
 ![](/assets/pictures/text-editor/nightmare.png)<br><br>
 ![](/assets/pictures/terminal/nightmare.png)<br><br>
 
+**Lunar**<br>
+A yellow shine on a bright night sky.<br><br>
+![](/assets/pictures/text-editor/lunar.png)<br><br>
+![](/assets/pictures/terminal/lunar.png)<br><br>
+
 **Oceanic**<br>
 Low saturated ocean green background, combined with aqua blue foreground and a colorscheme for syntax highlighting which is based<br>on sea foam, corals, sand and seaweed.<br><br>
 ![](/assets/pictures/text-editor/oceanic.png)<br><br>
@@ -212,9 +222,6 @@ Combined with some retro colors (I had the 80's in mind) you get a "synthetic" l
 ![](/assets/pictures/text-editor/synthetic.png)<br><br>
 ![](/assets/pictures/terminal/synthetic.png)<br><br>
 
-**Toxic**<br>
-![](/assets/pictures/text-editor/toxic.png)<br><br>
-![](/assets/pictures/terminal/toxic.png)<br><br>
 
 **Team Plasma**<br>
 A set of two themes (other one is *Black-and-White*) I made with Pokemon Black / White version in mind.<br>
@@ -233,6 +240,20 @@ Warm black with see-green foreground and the color scheme is copied from my rage
 different green tone in highlighting and foreground<br>
 ![](/assets/pictures/text-editor/terminalv2.png)<br><br>
 ![](/assets/pictures/terminal/terminalv2.png)<br><br>
+
+**Torchlight**<br>
+These themes were created with the dungeon crawler Torchlight in mind. Specificall Torchlight 2 hence the naming.<br>
+The main colors where taken from the logo the syntax colors from dungeon screenshots.<br><br>
+*Torches of Winterwell (main)*<br>
+![](/assets/pictures/text-editor/torchlight-torches-of-winterwell.png)<br><br>
+![](/assets/pictures/terminal/torchlight-torches-of-winterwell.png)<br><br>
+*Sky over Zerypesh*<br>
+![](/assets/pictures/text-editor/torchlight-sky-over-zerypesh.png)<br><br>
+![](/assets/pictures/terminal/torchlight-sky-over-zerypesh.png)<br><br>
+
+**Toxic**<br>
+![](/assets/pictures/text-editor/toxic.png)<br><br>
+![](/assets/pictures/terminal/toxic.png)<br><br>
 
 **Vintage**<br>
 ...because "vintage" themes often feel retro, but not "vintage".<br><br>
