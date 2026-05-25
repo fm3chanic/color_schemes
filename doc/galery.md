@@ -244,12 +244,15 @@ different green tone in highlighting and foreground<br>
 **Torchlight**<br>
 These themes were created with the dungeon crawler Torchlight in mind. Specificall Torchlight 2 hence the naming.<br>
 The main colors where taken from the logo the syntax colors from dungeon screenshots.<br><br>
+*Temple Steppes*<br>
+![](/assets/pictures/text-editor/torchlight-temple-steppes.png)<br><br>
+![](/assets/pictures/terminal/torchlight-temple-steppes.png)<br><br>
 *Torches of Winterwell (main)*<br>
 ![](/assets/pictures/text-editor/torchlight-torches-of-winterwell.png)<br><br>
 ![](/assets/pictures/terminal/torchlight-torches-of-winterwell.png)<br><br>
-*Sky over Zerypesh*<br>
-![](/assets/pictures/text-editor/torchlight-sky-over-zerypesh.png)<br><br>
-![](/assets/pictures/terminal/torchlight-sky-over-zerypesh.png)<br><br>
+*Camp Dawn*<br>
+![](/assets/pictures/text-editor/torchlight-camp-dawn.png)<br><br>
+![](/assets/pictures/terminal/torchlight-camp-dawn.png)<br><br>
 
 **Toxic**<br>
 ![](/assets/pictures/text-editor/toxic.png)<br><br>
