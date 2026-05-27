@@ -64,6 +64,9 @@ Forest green background with a cloudy blue-grey foreground.<br><br>
 A secret laboratory on a frozen world.<br><br>
 ![](/assets/pictures/text-editor/cryogenic.png)<br><br>
 ![](/assets/pictures/terminal/cryogenic.png)<br><br>
+*Dark Version*
+![](/assets/pictures/text-editor/cryogenic-dark.png)<br><br>
+![](/assets/pictures/terminal/cryogenic-dark.png)<br><br>
 
 **Crypt**<br>
 Crypt from a comic book. Faded violet with a zombie green.<br><br>
@@ -163,6 +166,9 @@ Gun metal grey theme, combined with muted colors partially technical partially a
 This theme is a child of my cryogenic theme. Combining it's features with a brown / dirty-white foreground.<br><br>
 ![](/assets/pictures/text-editor/neo-industrial.png)<br><br>
 ![](/assets/pictures/terminal/neo-industrial.png)<br><br>
+*Dark Version*
+![](/assets/pictures/text-editor/neo-industrial-dark.png)<br><br>
+![](/assets/pictures/terminal/neo-industrial-dark.png)<br><br>
 
 **Nightmare**<br>
 Halloween in a comic book.<br><br>
@@ -194,6 +200,9 @@ Rust brown and orange background and highlighting combined with a dirty white fo
 A scrap yard was the base concept. In my mind I had one of this dystopian waste lands scorched by sun, hence a warm set of colors.<br><br>
 ![](/assets/pictures/text-editor/rust.png)<br><br>
 ![](/assets/pictures/terminal/rust.png)<br><br>
+*Dark Version*
+![](/assets/pictures/text-editor/rust-dark.png)<br><br>
+![](/assets/pictures/terminal/rust-dark.png)<br><br>
 
 **Sakura Haruno (Naruto)**<br>
 My first theme I made. There was a rework since then, yet the base concept is still the same.<br><br>
@@ -244,9 +253,6 @@ different green tone in highlighting and foreground<br>
 **Torchlight**<br>
 These themes were created with the dungeon crawler Torchlight in mind. Specificall Torchlight 2 hence the naming.<br>
 The main colors where taken from the logo the syntax colors from dungeon screenshots.<br><br>
-*Temple Steppes*<br>
-![](/assets/pictures/text-editor/torchlight-temple-steppes.png)<br><br>
-![](/assets/pictures/terminal/torchlight-temple-steppes.png)<br><br>
 *Torches of Winterwell (main)*<br>
 ![](/assets/pictures/text-editor/torchlight-torches-of-winterwell.png)<br><br>
 ![](/assets/pictures/terminal/torchlight-torches-of-winterwell.png)<br><br>
