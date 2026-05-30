@@ -213,6 +213,12 @@ My first theme I made. There was a rework since then, yet the base concept is st
 ![](/assets/pictures/text-editor/sakura-haruno-light.png)<br><br>
 ![](/assets/pictures/terminal/sakura-haruno-light.png)<br><br>
 
+**Silicon**<br>
+Base colors are different metallic blues.<br>
+The idea behind it is very simple: Offering a **neutral** theme which is pleasant to use during day to day work.<br><br>
+![](/assets/pictures/text-editor/silicon.png)<br><br>
+![](/assets/pictures/terminal/silicon.png)<br><br>
+
 **Solarpunk**<br>
 The last member of the punk genere I wanted to add.<br>
 One day I setup a new Ubuntu installation and switched the terminal to the first preinstalled theme catching my eye, which was not gnome.
