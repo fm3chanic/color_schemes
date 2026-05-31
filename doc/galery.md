@@ -44,6 +44,10 @@ Even if you are no pokemon fan, this one might be sth. for you if you are lookin
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
 
+**Cavern**<br>
+![](/assets/pictures/text-editor/cavern.png)<br><br>
+![](/assets/pictures/terminal/cavern.png)<br><br>
+
 **Chizra - Temple of Nali Watergod**<br>
 Theme based on the colors from this iconic level from Unreal (PC edition; release 1998; Unreal Gold).<br>
 A never ending labyrinth of chambers and slightly green shimmering water. A place of serenity and calmness.<br>
@@ -152,6 +156,13 @@ A classical dark theme with only natural colors. All colors have been extracted 
 *Light*<br>
 ![](/assets/pictures/text-editor/mother-nature-light.png)<br><br>
 ![](/assets/pictures/terminal/mother-nature-light.png)<br><br>
+
+**Native**<br>
+The simularities with Monokai themes are on purpose, yet it's not the same.<br>
+What I did is adjusting the whole colors to what I would call a *"better"* theme for perpetual usage.<br>
+Monokai is using more aggressive colors and having a higher contrast of which I am not a fan. It's straining on the eyes, which shouldn't be the case for an editor theme.<br><br>
+![](/assets/pictures/text-editor/native.png)<br><br>
+![](/assets/pictures/terminal/native.png)<br><br>
 
 **Nautical**<br>
 ![](/assets/pictures/text-editor/nautical.png)<br><br>
