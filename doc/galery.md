@@ -126,6 +126,14 @@ The goal was to capture the grim atmossphere of Dieselpunk in a color scheme.<br
 ![](/assets/pictures/text-editor/dieselpunk.png)<br><br>
 ![](/assets/pictures/terminal/dieselpunk.png)<br><br>
 
+**Gruber Darker**<br>
+Based on the gruber-darker theme for Emacs by rexim aka. Alexey Kutepov.<br>
+One of the few themes that require manual adjustments during built, yet the result if worth the effort.<br>
+Clear black and white theme with industrial base colors for everybody who likes it simple.<br>
+I offer it for all of my supported applications.<br><br>
+![](/assets/pictures/text-editor/gruber-darker.png)<br><br>
+![](/assets/pictures/terminal/gruber-darker.png)<br><br>
+
 **Ice Shelf**<br>
 ![](/assets/pictures/text-editor/ice-shelf.png)<br><br>
 ![](/assets/pictures/terminal/ice-shelf.png)<br><br>
