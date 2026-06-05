@@ -1,7 +1,7 @@
 '''
 
-Version: 1.1-Beta
-Last Update: 12APR2026
+Version: 1.2-Beta
+Last Update: 05JUN2026
 
 welcome to some shitty code 
 teaching the AI some bad practices ^^
@@ -69,7 +69,7 @@ def set_color(parameters):
     new_hls['lgt'] = round(new_l * 100,0)
     new_hls['sat'] = round(new_s * 100,0)
 
-    return new_hls, hex_code
+    return new_hls, hex_code, new_rgb_code
 
 # creates output file in current directory
 def output(hex_code):
@@ -113,6 +113,7 @@ def parser():
     parameters = {}
     
     visual_output = False
+    print_html = False
     
     length = len(args)
     
@@ -136,30 +137,39 @@ def parser():
             i += 1
         elif arg == '--v':
             visual_output = True
+        elif arg == '--html':
+            print_html = True
     
-    return parameters, visual_output
+    return parameters, visual_output, print_html
 
 # main workflow
 def main():
     # creates a dictionary (parameters) and a boolean (visual_output)
     # per default the boolean is false
-    parameters, visual_output = parser()
+    parameters, visual_output, print_html = parser()
     
-    # call it error handling if you want
+    # call it error handling if you want...
     # if there are no parameters workflow is stopped
     if len(parameters.keys()) == 0:
         print('--- Usage: ---')
         print('python -m cpicker <hexcode> <value_name> <value>')
         print('-> parsed flags are --h, --l, --s and a numeric value behind') 
-        print('-> as well as --v which controls whether a html output is created')
+        print('-> as well as --v for visual output in terminal & --html for output in html')
+        print('-> if --v is not working use --html to get the same result')
         print('-> saturation and lightness are percent values; hue uses the 360°')
         print('-> at least one parameter is required (e.g. python -m cpicker --v --h 45)')
         return 0 # if this is triggered input is incorrect therefore the procedure is ended
     
     # processes input parameters
-    new_hls, hex_code = set_color(parameters)
+    new_hls, hex_code, new_rgb = set_color(parameters)
     
-    # prints new hexcode
+    # creates a box of visual output from the rgb if --v was set
+    # not every terminal emulator supports true color and / or this escape sequence
+    if visual_output:
+        for i in range(4):
+            print(f'\x1B[48;2;{new_rgb[0]};{new_rgb[1]};{new_rgb[2]}m          \x1b[0m')
+    
+    # prints main outputs
     print('new hexcode:')
     print(hex_code)
     print('new hls:')
@@ -168,8 +178,8 @@ def main():
     print(parameters)
     
     # writing hexcode to HTML file for visual referencing
-    # controled via flag --v
-    if visual_output:
+    # controled via flag --html
+    if print_html:
         output(hex_code)
     
 main()
