@@ -44,6 +44,15 @@ Even if you are no pokemon fan, this one might be sth. for you if you are lookin
 ![](/assets/pictures/text-editor/black-and-white.png)<br><br>
 ![](/assets/pictures/terminal/black-and-white.png)<br><br>
 
+**Breath - Dark**<br>
+Made for compatibilty with Manjaro Linux and it's dark desktop theme.<br><br>
+![](/assets/pictures/text-editor/breath-dark.png)<br><br>
+![](/assets/pictures/terminal/breath-dark.png)<br><br>
+
+**Callisto**<br>
+![](/assets/pictures/text-editor/callisto.png)<br><br>
+![](/assets/pictures/terminal/callisto.png)<br><br>
+
 **Candy Cane**<br>
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
