@@ -17,6 +17,11 @@ This theme was inspired by this literary masterpiece by Jules Verne. My goal was
 ![](/assets/pictures/text-editor/alien.png)<br><br>
 ![](/assets/pictures/terminal/alien.png)<br><br>
 
+**Apollo**<br>
+Moon rocks and empty space...<br><br>
+![](/assets/pictures/text-editor/apollo.png)<br><br>
+![](/assets/pictures/terminal/apollo.png)<br><br>
+
 **Aquatic**<br>
 Medium light theme based arround a deep aqua tone combined with aquatic colors like salmon, sand and seafoam.<br><br>
 ![](/assets/pictures/text-editor/aquatic.png)<br><br>
@@ -258,6 +263,11 @@ It was solarized.<br>There are people loving it. There are people hating it. I w
 This is my solution for a better (in my eyes) implementation of the solar punk genere as editor / terminal theme.<br><br>
 ![](/assets/pictures/text-editor/solarpunk.png)<br><br>
 ![](/assets/pictures/terminal/solarpunk.png)<br><br>
+
+**Sputnik**<br>
+Stars and empty space...<br><br>
+![](/assets/pictures/text-editor/sputnik.png)<br><br>
+![](/assets/pictures/terminal/sputnik.png)<br><br>
 
 **Steampunk**<br>
 ![](/assets/pictures/text-editor/steampunk.png)<br><br>
