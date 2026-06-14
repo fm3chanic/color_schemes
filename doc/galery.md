@@ -167,6 +167,11 @@ I offer it for all of my supported applications.<br><br>
 ![](/assets/pictures/text-editor/ice-shelf.png)<br><br>
 ![](/assets/pictures/terminal/ice-shelf.png)<br><br>
 
+**Industrial**<br>
+This wasn't easy to make, but I am happy with the result. This should remind on futuristic industrial vehicles, maybe I'll rename it in the future.<br>
+![](/assets/pictures/text-editor/industrial.png)<br><br>
+![](/assets/pictures/terminal/industrial.png)<br><br>
+
 **Joker**<br>
 A dark theme arround the Joker from Batman.<br><br>
 ![](/assets/pictures/text-editor/joker.png)<br><br>
@@ -300,7 +305,6 @@ Combined with some retro colors (I had the 80's in mind) you get a "synthetic" l
 ![](/assets/pictures/text-editor/synthetic.png)<br><br>
 ![](/assets/pictures/terminal/synthetic.png)<br><br>
 
-
 **Team Plasma**<br>
 A set of two themes (other one is *Black-and-White*) I made with Pokemon Black / White version in mind.<br>
 This one has a focus on blue and blue gray, similar to team plasmas uniform.<br>
@@ -318,6 +322,15 @@ Warm black with see-green foreground and the color scheme is copied from my rage
 different green tone in highlighting and foreground<br>
 ![](/assets/pictures/text-editor/terminalv2.png)<br><br>
 ![](/assets/pictures/terminal/terminalv2.png)<br><br>
+*Version3*<br>
+sakura pink foreground + different red for readability<br>
+nothing for sensitive eyes<br>
+![](/assets/pictures/text-editor/terminalv3.png)<br><br>
+![](/assets/pictures/terminal/terminalv3.png)<br><br>
+*Version4*<br>
+peach pink foreground<br>
+![](/assets/pictures/text-editor/terminalv4.png)<br><br>
+![](/assets/pictures/terminal/terminalv4.png)<br><br>
 
 **Torchlight**<br>
 These themes were created with the dungeon crawler Torchlight in mind. Specificall Torchlight 2 hence the naming.<br>
