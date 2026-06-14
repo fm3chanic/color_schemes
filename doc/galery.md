@@ -45,7 +45,8 @@ A light theme made arround the color bamboo green. For fresh thoughts and peace 
 **Black and White**<br>
 A set of two themes (other one is *Team Plasma*) I made with Pokemon Black / White version in mind.<br>
 Here we have the opposite colors of the legendary pokemons from these games combined with a colorful color scheme.<br>
-Even if you are no pokemon fan, this one might be sth. for you if you are looking for a clean black and white theme.<br><br>
+Even if you are no pokemon fan, this one might be sth. for you if you are looking for a clean black and white theme.<br>
+The black is a blue-gray (or as I like to call it "cloud-black") and the white a clay-white.<br><br>
 ![](/assets/pictures/text-editor/black-and-white.png)<br><br>
 ![](/assets/pictures/terminal/black-and-white.png)<br><br>
 
@@ -72,6 +73,16 @@ A never ending labyrinth of chambers and slightly green shimmering water. A plac
 That's what I tried to replicate with the sea-green foreground and the stone background.<br><br>
 ![](/assets/pictures/text-editor/chizra.png)<br><br>
 ![](/assets/pictures/terminal/chizra.png)<br><br>
+
+**Classic**<br>
+A classic clean black terminal and editor theme. Main version and the v2 might not look much different for some one who might be less hue senstive, but they have specific differences.
+Choose what suits you better.<br><br>
+*Main*
+![](/assets/pictures/text-editor/classic.png)<br><br>
+![](/assets/pictures/terminal/classic.png)<br><br>
+*V2*
+![](/assets/pictures/text-editor/classicv2.png)<br><br>
+![](/assets/pictures/terminal/classicv2.png)<br><br>
 
 **Cloud Forest**<br>
 Forest green background with a cloudy blue-grey foreground.<br><br>
@@ -170,6 +181,12 @@ The picture I had in mind while making this was one of the modern mega cities at
 ![](/assets/pictures/text-editor/metropolis.png)<br><br>
 ![](/assets/pictures/terminal/metropolis.png)<br><br>
 
+**Mining and Crafting**<br>
+This is the try to bring minecrafts colors to a dark editor / terminal theme. Background is slate, highlighting earth and foreground grass.<br>
+Color scheme was picked based on colors from the game, which lead to for me atypically saturated colors.<br><br>
+![](/assets/pictures/text-editor/mining-and-crafting.png)<br><br>
+![](/assets/pictures/terminal/mining-and-crafting.png)<br><br>
+
 **Moss**<br>
 ![](/assets/pictures/text-editor/moss.png)<br><br>
 ![](/assets/pictures/terminal/moss.png)<br><br>
@@ -211,6 +228,10 @@ This theme is a child of my cryogenic theme. Combining it's features with a brow
 Halloween in a comic book.<br><br>
 ![](/assets/pictures/text-editor/nightmare.png)<br><br>
 ![](/assets/pictures/terminal/nightmare.png)<br><br>
+
+**Nordic**<br>
+![](/assets/pictures/text-editor/nordic.png)<br><br>
+![](/assets/pictures/terminal/nordic.png)<br><br>
 
 **Lunar**<br>
 A yellow shine on a bright night sky.<br><br>

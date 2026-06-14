@@ -16,6 +16,9 @@ The colors should resemble their combination of machines and sacrality.<br><br>
 *Darker*<br>
 ![](/assets/pictures/text-editor/adeptus-mechanicus-darker.png)<br><br>
 ![](/assets/pictures/terminal/adeptus-mechanicus-darker.png)<br><br>
+*Medium*<br>
+![](/assets/pictures/text-editor/adeptus-mechanicus-medium.png)<br><br>
+![](/assets/pictures/terminal/adeptus-mechanicus-medium.png)<br><br>
 *Light*<br>
 ![](/assets/pictures/text-editor/adeptus-mechanicus-light.png)<br><br>
 ![](/assets/pictures/terminal/adeptus-mechanicus-light.png)<br><br>
