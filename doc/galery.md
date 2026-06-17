@@ -346,6 +346,11 @@ The main colors where taken from the logo the syntax colors from dungeon screens
 ![](/assets/pictures/text-editor/toxic.png)<br><br>
 ![](/assets/pictures/terminal/toxic.png)<br><br>
 
+**Victorian**<br>
+A try to bring the feeling of the materials of this time. Wood, Leather and Metal. Colors should look somewhat vintage.<br><br>
+![](/assets/pictures/text-editor/victorian.png)<br><br>
+![](/assets/pictures/terminal/victorian.png)<br><br>
+
 **Vintage**<br>
 ...because "vintage" themes often feel retro, but not "vintage".<br><br>
 ![](/assets/pictures/text-editor/vintage.png)<br><br>
