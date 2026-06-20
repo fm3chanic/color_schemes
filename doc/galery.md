@@ -42,6 +42,13 @@ A light theme made arround the color bamboo green. For fresh thoughts and peace 
 ![](/assets/pictures/text-editor/bamboo.png)<br><br>
 ![](/assets/pictures/terminal/bamboo.png)<br><br>
 
+**Biosphere**<br>
+Successor of *Cloud-Forest* which was discontinued.<br>
+The theme got colder and darker, yet still follows the main concept of combining dark woods and fog.<br>
+Main goal with the transformation was a more *"eerie"* feeling.<br><br>
+![](/assets/pictures/text-editor/biosphere.png)<br><br>
+![](/assets/pictures/terminal/biosphere.png)<br><br>
+
 **Black and White**<br>
 A set of two themes (other one is *Team Plasma*) I made with Pokemon Black / White version in mind.<br>
 Here we have the opposite colors of the legendary pokemons from these games combined with a colorful color scheme.<br>
@@ -83,11 +90,6 @@ Choose what suits you better.<br><br>
 *V2*
 ![](/assets/pictures/text-editor/classicv2.png)<br><br>
 ![](/assets/pictures/terminal/classicv2.png)<br><br>
-
-**Cloud Forest**<br>
-Forest green background with a cloudy blue-grey foreground.<br><br>
-![](/assets/pictures/text-editor/cloud-forest.png)<br><br>
-![](/assets/pictures/terminal/cloud-forest.png)<br><br>
 
 **Condor**<br>
 ![](/assets/pictures/text-editor/condor.png)<br><br>
