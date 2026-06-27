@@ -120,8 +120,15 @@ The simularity to tokyo night storm is on purpose, as I wanted make something si
 
 **Cyrodiil**<br>
 Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br><br>
-![](/assets/pictures/text-editor/cyrodiil.png)<br><br>
-![](/assets/pictures/terminal/cyrodiil.png)<br><br>
+*Light*<br>
+![](/assets/pictures/text-editor/cyrodiil-light.png)<br><br>
+![](/assets/pictures/terminal/cyrodiil-light.png)<br><br>
+*Medium*<br>
+![](/assets/pictures/text-editor/cyrodiil-medium.png)<br><br>
+![](/assets/pictures/terminal/cyrodiil-medium.png)<br><br>
+*Dark*<br>
+![](/assets/pictures/text-editor/cyrodiil-dark.png)<br><br>
+![](/assets/pictures/terminal/cyrodiil-dark.png)<br><br>
 
 **Dark Earth**<br>
 ![](/assets/pictures/text-editor/dark_earth.png)<br><br>
@@ -171,8 +178,12 @@ I offer it for all of my supported applications.<br><br>
 
 **Industrial**<br>
 This wasn't easy to make, but I am happy with the result. This should remind on futuristic industrial vehicles, maybe I'll rename it in the future.<br>
-![](/assets/pictures/text-editor/industrial.png)<br><br>
-![](/assets/pictures/terminal/industrial.png)<br><br>
+*Light*<br>
+![](/assets/pictures/text-editor/industrial-light.png)<br><br>
+![](/assets/pictures/terminal/industrial-light.png)<br><br>
+*Dark*<br>
+![](/assets/pictures/text-editor/industrial-dark.png)<br><br>
+![](/assets/pictures/terminal/industrial-dark.png)<br><br>
 
 **Joker**<br>
 A dark theme arround the Joker from Batman.<br><br>
@@ -223,22 +234,18 @@ Gun metal grey theme, combined with muted colors partially technical partially a
 ![](/assets/pictures/text-editor/navy.png)<br><br>
 ![](/assets/pictures/terminal/navy.png)<br><br>
 
-**Neo-Industrial**<br>
-This theme is a child of my cryogenic theme. Combining it's features with a brown / dirty-white foreground.<br><br>
-![](/assets/pictures/text-editor/neo-industrial.png)<br><br>
-![](/assets/pictures/terminal/neo-industrial.png)<br><br>
-*Dark Version*
-![](/assets/pictures/text-editor/neo-industrial-dark.png)<br><br>
-![](/assets/pictures/terminal/neo-industrial-dark.png)<br><br>
-
 **Nightmare**<br>
 Halloween in a comic book.<br><br>
 ![](/assets/pictures/text-editor/nightmare.png)<br><br>
 ![](/assets/pictures/terminal/nightmare.png)<br><br>
 
 **Nordic**<br>
-![](/assets/pictures/text-editor/nordic.png)<br><br>
-![](/assets/pictures/terminal/nordic.png)<br><br>
+*Light*<br>
+![](/assets/pictures/text-editor/nordic-light.png)<br><br>
+![](/assets/pictures/terminal/nordic-light.png)<br><br>
+*Dark*<br>
+![](/assets/pictures/text-editor/nordic-dark.png)<br><br>
+![](/assets/pictures/terminal/nordic-dark.png)<br><br>
 
 **Lunar**<br>
 A yellow shine on a bright night sky.<br><br>
@@ -347,6 +354,10 @@ The main colors where taken from the logo the syntax colors from dungeon screens
 **Toxic**<br>
 ![](/assets/pictures/text-editor/toxic.png)<br><br>
 ![](/assets/pictures/terminal/toxic.png)<br><br>
+
+**Unreal**<br>
+![](/assets/pictures/text-editor/unreal.png)<br><br>
+![](/assets/pictures/terminal/unreal.png)<br><br>
 
 **Victorian**<br>
 A try to bring the feeling of the materials of this time. Wood, Leather and Metal. Colors should look somewhat vintage.<br><br>
