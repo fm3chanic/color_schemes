@@ -70,10 +70,6 @@ Made for compatibilty with Manjaro Linux and it's dark desktop theme.<br><br>
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
 
-**Cavern**<br>
-![](/assets/pictures/text-editor/cavern.png)<br><br>
-![](/assets/pictures/terminal/cavern.png)<br><br>
-
 **Chizra - Temple of Nali Watergod**<br>
 Theme based on the colors from this iconic level from Unreal (PC edition; release 1998; Unreal Gold).<br>
 A never ending labyrinth of chambers and slightly green shimmering water. A place of serenity and calmness.<br>
