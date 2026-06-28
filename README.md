@@ -4,8 +4,9 @@ This repo is a collection of HTML files containing color schemes for text editor
 Color schemes which have been created during my project of color theming Vtubers will be in the directory called "vtuber_project". Color schemes which were created outside this project will be in the directory "other".
 
 **[Vtuber Project | Information & Galery](https://github.com/fm3chanic/vtuber_project)**<br>
-**[Galery of Non-Project Themes](/doc/galery.md)**<br>
-**[Galery of Warhammer 40k based themes](/doc/galery_wh40k.md)**<br>
+**[Main galery of non-project themes](/doc/galery.md)**<br>
+**[Galery of video games inspired themes](/doc/galery_games.md)**<br>
+**[Galery of Warhammer 40k inspired themes](/doc/galery_wh40k.md)**<br>
 **[Supported Applications](/doc/applications.md)**
 
 ### Tools & Workflow (HTML files)

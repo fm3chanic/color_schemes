@@ -1,9 +1,10 @@
 ## fm3chanic Color Theme Galery
 
-This galery contains all my color themes which are not related to my vtuber project. All of these color themes were built during my freetime and served as an outlet for my creativity.<br>
+This galery contains the most of my color themes which are not related to my vtuber project. All of these color themes were built during my freetime and served as an outlet for my creativity.<br>
 
 **Other Galeries:**<br>
-***[Warhammer 40k based themes](/doc/galery_wh40k.md)***<br>
+***[Video Games inspired themes](/doc/galery_games.md)***<br>
+***[Warhammer 40k inspired themes](/doc/galery_wh40k.md)***<br>
 ***[Vtuber Project](https://github.com/fm3chanic/vtuber_project)***
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
@@ -49,14 +50,6 @@ Main goal with the transformation was a more *"eerie"* feeling.<br><br>
 ![](/assets/pictures/text-editor/biosphere.png)<br><br>
 ![](/assets/pictures/terminal/biosphere.png)<br><br>
 
-**Black and White**<br>
-A set of two themes (other one is *Team Plasma*) I made with Pokemon Black / White version in mind.<br>
-Here we have the opposite colors of the legendary pokemons from these games combined with a colorful color scheme.<br>
-Even if you are no pokemon fan, this one might be sth. for you if you are looking for a clean black and white theme.<br>
-The black is a blue-gray (or as I like to call it "cloud-black") and the white a clay-white.<br><br>
-![](/assets/pictures/text-editor/black-and-white.png)<br><br>
-![](/assets/pictures/terminal/black-and-white.png)<br><br>
-
 **Breath - Dark**<br>
 Made for compatibilty with Manjaro Linux and it's dark desktop theme.<br><br>
 ![](/assets/pictures/text-editor/breath-dark.png)<br><br>
@@ -69,13 +62,6 @@ Made for compatibilty with Manjaro Linux and it's dark desktop theme.<br><br>
 **Candy Cane**<br>
 ![](/assets/pictures/text-editor/candy-cane.png)<br><br>
 ![](/assets/pictures/terminal/candy-cane.png)<br><br>
-
-**Chizra - Temple of Nali Watergod**<br>
-Theme based on the colors from this iconic level from Unreal (PC edition; release 1998; Unreal Gold).<br>
-A never ending labyrinth of chambers and slightly green shimmering water. A place of serenity and calmness.<br>
-That's what I tried to replicate with the sea-green foreground and the stone background.<br><br>
-![](/assets/pictures/text-editor/chizra.png)<br><br>
-![](/assets/pictures/terminal/chizra.png)<br><br>
 
 **Classic**<br>
 A classic clean black terminal and editor theme. Main version and the v2 might not look much different for some one who might be less hue senstive, but they have specific differences.
@@ -113,18 +99,6 @@ Main colors are taken from my cyberpunk theme, the rest comes from my nightmare,
 The simularity to tokyo night storm is on purpose, as I wanted make something similar combinging cyberpunk and urban colors. I would say core difference is, that I use less saturated colors in general and adding my own notes with working in the 9 color scale for the main colors.<br><br>
 ![](/assets/pictures/text-editor/cyberstorm.png)<br><br>
 ![](/assets/pictures/terminal/cyberstorm.png)<br><br>
-
-**Cyrodiil**<br>
-Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br><br>
-*Light*<br>
-![](/assets/pictures/text-editor/cyrodiil-light.png)<br><br>
-![](/assets/pictures/terminal/cyrodiil-light.png)<br><br>
-*Medium*<br>
-![](/assets/pictures/text-editor/cyrodiil-medium.png)<br><br>
-![](/assets/pictures/terminal/cyrodiil-medium.png)<br><br>
-*Dark*<br>
-![](/assets/pictures/text-editor/cyrodiil-dark.png)<br><br>
-![](/assets/pictures/terminal/cyrodiil-dark.png)<br><br>
 
 **Dark Earth**<br>
 ![](/assets/pictures/text-editor/dark_earth.png)<br><br>
@@ -168,10 +142,6 @@ I offer it for all of my supported applications.<br><br>
 ![](/assets/pictures/text-editor/gruber-darker.png)<br><br>
 ![](/assets/pictures/terminal/gruber-darker.png)<br><br>
 
-**Ice Shelf**<br>
-![](/assets/pictures/text-editor/ice-shelf.png)<br><br>
-![](/assets/pictures/terminal/ice-shelf.png)<br><br>
-
 **Industrial**<br>
 This wasn't easy to make, but I am happy with the result. This should remind on futuristic industrial vehicles, maybe I'll rename it in the future.<br>
 *Light*<br>
@@ -194,12 +164,6 @@ A dark theme arround the Joker from Batman.<br><br>
 The picture I had in mind while making this was one of the modern mega cities at a autmn night. A dimmed slightly cold but colorful atmosphere.<br><br>
 ![](/assets/pictures/text-editor/metropolis.png)<br><br>
 ![](/assets/pictures/terminal/metropolis.png)<br><br>
-
-**Mining and Crafting**<br>
-This is the try to bring minecrafts colors to a dark editor / terminal theme. Background is slate, highlighting earth and foreground grass.<br>
-Color scheme was picked based on colors from the game, which lead to for me atypically saturated colors.<br><br>
-![](/assets/pictures/text-editor/mining-and-crafting.png)<br><br>
-![](/assets/pictures/terminal/mining-and-crafting.png)<br><br>
 
 **Moss**<br>
 ![](/assets/pictures/text-editor/moss.png)<br><br>
@@ -310,13 +274,6 @@ Combined with some retro colors (I had the 80's in mind) you get a "synthetic" l
 ![](/assets/pictures/text-editor/synthetic.png)<br><br>
 ![](/assets/pictures/terminal/synthetic.png)<br><br>
 
-**Team Plasma**<br>
-A set of two themes (other one is *Black-and-White*) I made with Pokemon Black / White version in mind.<br>
-This one has a focus on blue and blue gray, similar to team plasmas uniform.<br>
-The color scheme tries to represent the range of pokemon they where using and their colors as well as the iconic blue.<br><br>
-![](/assets/pictures/text-editor/team-plasma.png)<br><br>
-![](/assets/pictures/terminal/team-plasma.png)<br><br>
-
 **Terminal**<br>
 This theme was made for some selfish reasons.<br>
 I a slightly retro looking terminal theme, but also clean and easy on the eye. Fitting to my total desktop theme, which is rather minimal.<br>
@@ -337,23 +294,9 @@ peach pink foreground<br>
 ![](/assets/pictures/text-editor/terminalv4.png)<br><br>
 ![](/assets/pictures/terminal/terminalv4.png)<br><br>
 
-**Torchlight**<br>
-These themes were created with the dungeon crawler Torchlight in mind. Specificall Torchlight 2 hence the naming.<br>
-The main colors where taken from the logo the syntax colors from dungeon screenshots.<br><br>
-*Torches of Winterwell (main)*<br>
-![](/assets/pictures/text-editor/torchlight-torches-of-winterwell.png)<br><br>
-![](/assets/pictures/terminal/torchlight-torches-of-winterwell.png)<br><br>
-*Camp Dawn*<br>
-![](/assets/pictures/text-editor/torchlight-camp-dawn.png)<br><br>
-![](/assets/pictures/terminal/torchlight-camp-dawn.png)<br><br>
-
 **Toxic**<br>
 ![](/assets/pictures/text-editor/toxic.png)<br><br>
 ![](/assets/pictures/terminal/toxic.png)<br><br>
-
-**Unreal**<br>
-![](/assets/pictures/text-editor/unreal.png)<br><br>
-![](/assets/pictures/terminal/unreal.png)<br><br>
 
 **Victorian**<br>
 A try to bring the feeling of the materials of this time. Wood, Leather and Metal. Colors should look somewhat vintage.<br><br>

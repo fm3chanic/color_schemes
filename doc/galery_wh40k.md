@@ -1,9 +1,10 @@
 ## fm3chanic Color Theme Galery - Warhammer 40k
 
-This galery contains all my wh40k based color themes. All of these color themes were built during my freetime and served as an outlet for my creativity.<br>
+This galery contains all my wh40k inspired color themes. All of these color themes were built during my freetime and served as an outlet for my creativity.<br>
 
 **Other Galeries:**<br>
 ***[Main Galery](/doc/galery.md)***<br>
+***[Video Games inspired themes](/doc/galery_games.md)***<br>
 ***[Vtuber Project](https://github.com/fm3chanic/vtuber_project)***
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
