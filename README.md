@@ -5,6 +5,7 @@ Color schemes which have been created during my project of color theming Vtubers
 
 **[Vtuber Project | Information & Galery](https://github.com/fm3chanic/vtuber_project)**<br>
 **[Main galery of non-project themes](/doc/galery.md)**<br>
+**[Galery of sci-fi themes](/doc/galery_sci-fi.md)**<br>
 **[Galery of video games inspired themes](/doc/galery_games.md)**<br>
 **[Galery of Warhammer 40k inspired themes](/doc/galery_wh40k.md)**<br>
 **[Supported Applications](/doc/applications.md)**

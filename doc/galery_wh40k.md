@@ -4,6 +4,7 @@ This galery contains all my wh40k inspired color themes. All of these color them
 
 **Other Galeries:**<br>
 ***[Main Galery](/doc/galery.md)***<br>
+***[Sci-Fi themes](/doc/galery_sci-fi.md)***<br>
 ***[Video Games inspired themes](/doc/galery_games.md)***<br>
 ***[Vtuber Project](https://github.com/fm3chanic/vtuber_project)***
 

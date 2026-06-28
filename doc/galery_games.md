@@ -4,6 +4,7 @@ This galery contains all color themes inspired by video games. All of these colo
 
 **Other Galeries:**<br>
 ***[Main Galery](/doc/galery.md)***<br>
+***[Sci-Fi themes](/doc/galery_sci-fi.md)***<br>
 ***[Warhammer 40k inspired themes](/doc/galery_wh40k.md)***<br>
 ***[Vtuber Project](https://github.com/fm3chanic/vtuber_project)***
 
