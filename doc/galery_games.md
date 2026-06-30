@@ -40,8 +40,12 @@ Inspired by "The Elder Scrolls IV - Oblivion" and it's menu desgin.<br><br>
 **Pandora**<br>
 Everyone that played the Borderlands main titles (especially 1 and 2) knows this planet. The majority also will have a love-hate-relationship with it.<br>
 The colors where picked from screenshots and characters. Background is this typicall sun bleached white you'll find basically everywhere. Foreground is blood red.<br><br>
+*Light*<br>
 ![](/assets/pictures/text-editor/pandora.png)<br><br>
 ![](/assets/pictures/terminal/pandora.png)<br><br>
+*Dark*<br>
+![](/assets/pictures/text-editor/pandora-dark.png)<br><br>
+![](/assets/pictures/terminal/pandora-dark.png)<br><br>
 
 **Mining and Crafting**<br>
 This is the try to bring minecrafts colors to a dark editor / terminal theme. Background is slate, highlighting earth and foreground grass.<br>

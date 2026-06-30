@@ -166,6 +166,11 @@ The idea behind it is very simple: Offering a **neutral** theme which is pleasan
 ![](/assets/pictures/text-editor/silicon.png)<br><br>
 ![](/assets/pictures/terminal/silicon.png)<br><br>
 
+**Spruce and Icicles**<br>
+I saw the concept of dark spruce (or oak) wood hoots in the freezing cold quite often in fantasy and sci-fi. I made a dark theme about it.<br><br>
+![](/assets/pictures/text-editor/Spruce-and-Icicles.png)<br><br>
+![](/assets/pictures/terminal/Spruce-and-Icicles.png)<br><br>
+
 **Sputnik**<br>
 Stars and empty space...<br><br>
 ![](/assets/pictures/text-editor/sputnik.png)<br><br>
