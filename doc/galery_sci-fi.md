@@ -36,7 +36,7 @@ Main goal with the transformation was a more *"eerie"* feeling.<br><br>
 ![](/assets/pictures/terminal/callisto.png)<br><br>
 
 **Cryochamber**<br>
-The shine of light broken by light in a dark room.<br><br>
+The shine of light broken by ice in a dark room.<br><br>
 ![](/assets/pictures/text-editor/cryochamber.png)<br><br>
 ![](/assets/pictures/terminal/cryochamber.png)<br><br>
 
