@@ -35,6 +35,11 @@ Main goal with the transformation was a more *"eerie"* feeling.<br><br>
 ![](/assets/pictures/text-editor/callisto.png)<br><br>
 ![](/assets/pictures/terminal/callisto.png)<br><br>
 
+**Cryochamber**<br>
+The shine of light broken by light in a dark room.<br><br>
+![](/assets/pictures/text-editor/cryochamber.png)<br><br>
+![](/assets/pictures/terminal/cryochamber.png)<br><br>
+
 **Cryogenic**<br>
 A secret laboratory on a frozen world.<br><br>
 ![](/assets/pictures/text-editor/cryogenic.png)<br><br>
@@ -112,5 +117,10 @@ This is my solution for a better (in my eyes) implementation of the solar punk g
 A try to bring the feeling of the materials of this time. Wood, Leather and Metal. Colors should look somewhat vintage.<br><br>
 ![](/assets/pictures/text-editor/victorian.png)<br><br>
 ![](/assets/pictures/terminal/victorian.png)<br><br>
+
+**Void**<br>
+Similar to my alien theme, but with a space like background.<br><br>
+![](/assets/pictures/text-editor/void.png)<br><br>
+![](/assets/pictures/terminal/void.png)<br><br>
 
 **[Back](https://github.com/fm3chanic/color_schemes)**
