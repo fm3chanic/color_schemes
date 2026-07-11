@@ -49,6 +49,14 @@ Choose what suits you better.<br><br>
 ![](/assets/pictures/text-editor/classicv2.png)<br><br>
 ![](/assets/pictures/terminal/classicv2.png)<br><br>
 
+**Cmd Advanced**<br>
+The only theme where you have dark and bright colors for the terminal. Usually
+I spare the dark colors, but for this one I stayed standard. I took quite some
+time with the colors and I hope you like this traditional, yet classical theme
+for terminal and editors.<br><br>
+![](/assets/pictures/text-editor/cmd-advanced.png)<br><br>
+![](/assets/pictures/terminal/cmd-advanced.png)<br><br>
+
 **Condor**<br>
 ![](/assets/pictures/text-editor/condor.png)<br><br>
 ![](/assets/pictures/terminal/condor.png)<br><br>
