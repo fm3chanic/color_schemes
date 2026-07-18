@@ -224,6 +224,11 @@ Successor of my snake theme. A clean cold-black background with toxic greens and
 ![](/assets/pictures/text-editor/viper.png)<br><br>
 ![](/assets/pictures/terminal/viper.png)<br><br>
 
+**Viridian**<br>
+Base are colors from a camo pattern. Since the idea should be a natural look natural colors have been added.<br><br>
+![](/assets/pictures/text-editor/viridian.png)<br><br>
+![](/assets/pictures/terminal/viridian.png)<br><br>
+
 **Zen**<br>
 My Zen and Rage themes are related to each other and the result of the same conzept. A strongly muted quality in their colors.<br>
 For Zen it's the "quietness" of a calm mind.<br><br>
